@@ -1,1 +1,5 @@
-equipamento,quantidade,potencia_w,horas_dia
+
+cenario,equipamento,quantidade,potencia_w,horas_dia,dias_mes,fonte_energia
+atual,luminaria_convencional,,,,,rede_eletrica
+alternativa_1,luminaria_led,,,,,rede_eletrica
+alternativa_2,luminaria_led_solar,,,,,solar_fotovoltaica
