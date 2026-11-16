@@ -140,7 +140,15 @@ Dessa forma, o investimento inicial estimado para a alternativa LED será de R$ 
 Para a alternativa solar, serão consideradas as mesmas 10 luminárias LED de 100 W, além de um conjunto fotovoltaico de 6,5 kWp, baterias para armazenamento e equipamentos necessários ao controle e à conversão de energia.
 O orçamento preliminar utilizará os seguintes valores:
 
-**TABELA AQUI**
+|Componente | Quantidade | Valor unitário | Total |
+|---|---|---|---|
+|Luminárias LED de 100 W | 10 | R$ 1.000,00 | R$ 10.000,00 |
+|Painéis solares de 650 W | 10 | R$ 739,00 | R$ 7.390,00 
+|Baterias de lítio de 5,12 kWh | 4 | R$ 7.160,00 | R$ 28.640,00 |
+|Conjunto de conversão e controle de energia | 1 conjunto | R$ 6.000,00 | R$ 6.000,00 |
+|Estrturas cabeamento e proteções | 1 conjunto |  R$ 6.000,00 | R$ 6.000,00 |
+|Instalação e adequações do sistema solar | 1 serviço | R$ 5.000,00 | R$ 5.000,00 |
+|**Investimento total estimado** | | | R$ 63.030,00
 
 Os preços dos painéis solares e das baterias foram obtidos em páginas comerciais consultadas em novembro de 2026. Esses valores representam referências de mercado e podem variar conforme a disponibilidade, as condições de pagamento e o fornecedor.
 O painel solar Canadian de 650 W utilizado como referência estava anunciado por R$ 739,00, mas indisponível em estoque na consulta realizada. Por isso, seu preço será utilizado apenas como referência de orçamento, sem representar uma oferta de fornecimento imediato.
