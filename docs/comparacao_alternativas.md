@@ -164,21 +164,35 @@ Dessa forma, ambas as alternativas apresentam benefícios ambientais potenciais.
 
 **Benefícios:**
 
-[Listar os principais benefícios da iluminação LED conectada à rede.]
+Redução do consumo energético: economia estimada de 40,48% em relação ao sistema convencional, equivalente a 233,24 kWh por mês.
+Economia financeira: redução estimada de R$ 111,26 nos custos mensais de operação, considerando eletricidade e reserva de manutenção.
+Menor investimento inicial: custo estimado de R$ 12.500, inferior ao necessário para a alternativa solar.
+Implantação mais simples: possibilidade de aproveitar os postes e a infraestrutura elétrica existente, mediante as adequações necessárias.
 
 **Limitações:**
 
-[Apresentar as principais limitações dessa alternativa.]
+Dependência da rede elétrica: as luminárias continuarão utilizando eletricidade fornecida pela distribuidora.
+Variações tarifárias: os custos de operação poderão aumentar conforme as alterações nas tarifas e nos encargos de energia.
+Necessidade de adequações: a instalação dependerá da avaliação das condições da infraestrutura existente e da distribuição da iluminação.
+Custos de manutenção: ainda serão necessárias inspeções e eventuais substituições de componentes, cujos valores reais poderão diferir das estimativas adotadas.
+
 
 ### 6.2. Alternativa 2
 
 **Benefícios:**
 
-[Listar os principais benefícios da iluminação LED solar.]
+Redução do consumo energético: economia estimada de 40,48% em relação ao sistema convencional, devido à utilização das mesmas luminárias LED de 100 W.
+Aproveitamento de energia renovável: utilização da geração solar fotovoltaica para alimentar a iluminação durante o período noturno.
+Independência da rede elétrica: possibilidade de eliminar a compra de eletricidade da distribuidora, desde que a geração e o armazenamento atendam integralmente à demanda nas condições simuladas.
+Economia operacional: redução estimada de R$ 160,18 nos custos mensais de operação em relação ao sistema convencional, considerando as premissas estabelecidas.
 
 **Limitações:**
+Investimento inicial elevado: custo estimado de R$ 63.030, devido à necessidade de painéis solares, baterias e equipamentos adicionais.
+Dependência das condições solares: a geração de energia poderá variar conforme o clima, o sombreamento e a incidência solar, especialmente durante períodos prolongados de baixa irradiação.
+Maior complexidade de implantação: necessidade de espaço adequado para os painéis, armazenamento das baterias e dimensionamento elétrico dos componentes.
+Manutenção e substituição de equipamentos: os painéis, as baterias e os equipamentos de conversão e controle exigirão cuidados, podendo gerar despesas adicionais não contempladas nas estimativas.
+Limitações da simulação: a capacidade de geração, o armazenamento e a compatibilidade dos componentes ainda precisariam ser verificados para uma instalação real.
 
-[Apresentar as principais limitações dessa alternativa.]
 
 ## 7. Comparação Final
 
