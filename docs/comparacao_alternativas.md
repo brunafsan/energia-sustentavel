@@ -14,7 +14,10 @@ A principal melhoria esperada é a redução do consumo de energia elétrica e d
 
 ### 1.2. Alternativa 2 — Iluminação LED Solar Fotovoltaica
 
-[Explicar o funcionamento das luminárias LED alimentadas por energia solar, incluindo os principais componentes necessários.]
+A segunda alternativa propõe a utilização das mesmas 10 luminárias LED de 100 W, porém alimentadas por um sistema solar fotovoltaico isolado da rede elétrica.
+O sistema será composto por 10 painéis solares de 650 W, quatro baterias de lítio de 5,12 kWh e um conjunto de conversão e controle de energia, além das estruturas, cabeamento e dispositivos de proteção necessários.
+Durante o dia, os painéis gerarão energia para armazenamento nas baterias, que alimentarão as luminárias durante a noite.
+A principal melhoria esperada é a redução da dependência da rede elétrica por meio de uma fonte renovável de energia, mantendo o menor consumo proporcionado pelas luminárias LED.
 
 ## 2. Comparação do Consumo Energético
 
