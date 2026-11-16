@@ -64,7 +64,28 @@ Entretanto, o investimento inicial não será utilizado isoladamente para determ
 
 ### 3.2. Custos de Operação
 
-[Estimar os custos mensais de operação, incluindo o consumo de energia da rede e outras despesas relevantes.]
+Para estimar os custos mensais de operação, serão considerados o consumo de energia elétrica da rede e as reservas de manutenção estabelecidas no documento fontes_premissas.md.
+Os cálculos utilizarão o período de 343 horas mensais e a tarifa de iluminação pública B4a da Enel Distribuição São Paulo, no valor de R$ 0,43416/kWh, sem incluir tributos, bandeiras tarifárias ou outros encargos adicionais.
+
+**Sistema Atual — Iluminação Convencional**
+O sistema convencional apresenta consumo estimado de 576,24 kWh por mês, resultando em um custo de R$ 250,18 com eletricidade.
+Acrescentando a reserva mensal de manutenção de R$ 30,00, o custo total estimado de operação será de R$ 280,18.
+
+**Alternativa 1 — Iluminação LED Conectada à Rede Elétrica**
+A iluminação LED conectada à rede apresenta consumo estimado de 343 kWh por mês, correspondente a R$ 148,92 em eletricidade.
+Considerando a reserva mensal de manutenção de R$ 20,00, o custo total estimado de operação será de R$ 168,92.
+
+**Alternativa 2 — Iluminação LED Solar Fotovoltaica**
+Na alternativa solar fotovoltaica isolada, as luminárias continuarão consumindo aproximadamente 343 kWh por mês. Entretanto, será considerado custo nulo de compra de eletricidade da rede, desde que a geração solar e o armazenamento consigam atender integralmente à demanda nas condições simuladas.
+Para essa alternativa, será adotada uma reserva mensal de manutenção de R$ 120,00, considerando a necessidade de cuidados com os painéis, baterias e equipamentos de conversão e controle.
+Dessa forma, o custo total estimado de operação será de R$ 120,00 por mês, nas condições previstas.
+
+**TABELA AQUI**
+
+A compra de energia da rede será considerada nula na alternativa solar somente nas condições simuladas em que o sistema fotovoltaico consiga atender integralmente à demanda.
+
+Os resultados indicam menores custos mensais estimados para as duas alternativas LED em comparação com o sistema convencional.
+Entretanto, os valores de manutenção representam premissas orçamentárias e não incluem grandes reparos ou substituições futuras de equipamentos, especialmente baterias e inversores. Por isso, os custos apresentados não representam todas as despesas possíveis ao longo da vida útil dos sistemas
 
 ### 3.3. Economia Financeira
 
