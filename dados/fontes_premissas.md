@@ -34,7 +34,11 @@ A quantidade de energia elétrica consumida será estimada em kWh, considerando 
 
 ### 3.2. Funcionamento da Iluminação
 
-[Definir o tempo diário de funcionamento e o período de referência utilizado nos cálculos.]
+Para a análise energética, será considerado que o sistema de iluminação da praça funcionará durante o período noturno, com acionamento ao anoitecer e desligamento ao amanhecer.
+De acordo com a Resolução Homologatória nº 2.590/2019 da Agência Nacional de Energia Elétrica (ANEEL), o município de Osasco possui um tempo médio diário de referência de 11 horas e 26 minutos para a estimativa do consumo de energia elétrica da iluminação pública.
+Com base nesse valor, será considerado um período de 30 dias por mês, totalizando 343 horas mensais de funcionamento.
+O mesmo tempo de funcionamento será adotado nos três cenários analisados, permitindo comparar o consumo energético da iluminação convencional, das luminárias LED conectadas à rede elétrica e das luminárias LED alimentadas por energia solar fotovoltaica.
+O tempo utilizado representa uma referência regulatória para estimativas de faturamento, não uma medição real da praça hipotética. O funcionamento efetivo poderá variar conforme as condições locais e a época do ano.
 
 ### 3.3. Características dos Equipamentos
 
