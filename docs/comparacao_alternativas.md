@@ -200,5 +200,8 @@ Limitações da simulação: a capacidade de geração, o armazenamento e a comp
 
 ## 8. Alternativa Recomendada
 
-[Indicar qual alternativa apresenta a melhor relação entre eficiência energética, custos, viabilidade e benefícios para a comunidade. Justificar a escolha com base nos resultados.]
-  
+Com base nos resultados da comparação, a iluminação LED conectada à rede elétrica é a alternativa mais recomendada para a praça comunitária hipotética de Osasco.
+A solução apresenta redução estimada de 40,48% no consumo de energia elétrica da iluminação, economia operacional de R$ 111,26 por mês e investimento inicial de R$ 12.500, além de permitir o aproveitamento da infraestrutura existente.
+Embora a alternativa solar utilize energia renovável e proporcione maior economia mensal, exige um investimento adicional de R$ 50.530 para economizar apenas R$ 48,92 a mais por mês, tornando sua adoção menos vantajosa financeiramente nas condições simuladas.
+Assim, a iluminação LED conectada à rede apresenta a melhor relação entre eficiência energética, custos e viabilidade técnica. **Essa recomendação considera as premissas adotadas no projeto, não representando uma conclusão definitiva para uma instalação real.**
+
