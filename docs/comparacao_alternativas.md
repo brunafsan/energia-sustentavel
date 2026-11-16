@@ -89,7 +89,28 @@ Entretanto, os valores de manutenção representam premissas orçamentárias e n
 
 ### 3.3. Economia Financeira
 
-[Calcular a economia financeira estimada em relação ao sistema atual, utilizando o mesmo período de referência.]
+A economia financeira das alternativas será estimada pela diferença entre os custos mensais de operação do sistema convencional e os custos das soluções propostas, considerando o consumo de eletricidade e as reservas de manutenção estabelecidas no documento fontes_premissas.md.
+O sistema convencional apresenta custo mensal estimado de R$ 280,18, enquanto a alternativa LED conectada à rede apresenta R$ 168,92 e a alternativa solar fotovoltaica, R$ 120,00, nas condições simuladas.
+
+**Alternativa 1 — Iluminação LED Conectada à Rede Elétrica**
+A economia mensal estimada será calculada pela diferença entre os custos de operação:
+R$ 280,18 − R$ 168,92 = **R$ 111,26 por mês**.
+Considerando 12 meses padronizados, a economia anual projetada será de **R$ 1.335,12.**
+
+**Alternativa 2 — Iluminação LED Solar Fotovoltaica**
+Na alternativa solar, será considerado custo nulo de compra de eletricidade da rede, desde que o sistema fotovoltaico consiga atender integralmente à demanda energética nas condições simuladas.
+A economia mensal estimada será:
+R$ 280,18 − R$ 120,00 = **R$ 160,18 por mês**.
+Considerando 12 meses padronizados, a economia anual projetada será de **R$ 1.922,16.**
+
+**TABELA AQUI**
+
+Os resultados indicam que ambas as alternativas poderão reduzir os custos mensais de operação da iluminação da praça.
+A alternativa solar apresenta maior economia operacional estimada, porém exige investimento inicial significativamente superior ao da iluminação LED conectada à rede.
+As economias anuais representam projeções obtidas pela multiplicação dos resultados mensais por 12, considerando meses padronizados de 30 dias. Portanto, não correspondem a medições de um ano real.
+Além disso, os resultados dependem das premissas de tarifa, manutenção e funcionamento dos equipamentos, não incluindo grandes reparos ou substituições futuras.
+Dessa forma, a economia operacional será considerada juntamente com os investimentos iniciais, a viabilidade técnica e os demais benefícios e limitações para avaliar a alternativa mais adequada.
+
 
 ## 4. Viabilidade Técnica
 
