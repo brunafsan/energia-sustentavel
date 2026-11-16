@@ -82,15 +82,22 @@ Entretanto, os resultados dependem das premissas de manutenção e não incluem 
 
 **Descrição:**
 
-[Explicar qual parcela da demanda energética será atendida pela energia solar fotovoltaica.]
+O indicador representa o percentual da demanda energética das luminárias atendido pela geração solar fotovoltaica própria, permitindo avaliar o aproveitamento de energia renovável nas alternativas propostas.
 
 **Método de cálculo:**
 
-[Apresentar a fórmula utilizada para determinar a participação da energia renovável.]
+Participação de energia renovável (%) = (Energia solar fornecida às luminárias ÷ Consumo total das luminárias) × 100
 
 **Resultado estimado:**
 
-[Inserir o percentual estimado.]
+- Sistema convencional: 0% de geração solar própria.
+- Alternativa 1 — LED na rede: 0% de geração solar própria.
+- Alternativa 2 — LED solar: (343 ÷ 343) × 100 = 100% de participação prevista nas condições simuladas.
+
+A estimativa considera que o sistema fotovoltaico consiga atender integralmente ao consumo mensal de 343 kWh das luminárias, conforme as premissas de geração e armazenamento adotadas.
+Entretanto, o percentual de 100% representa uma condição projetada, não um resultado medido ou garantido, pois a disponibilidade solar pode variar ao longo do ano.
+Nos sistemas conectados à rede, o percentual de 0% refere-se apenas à ausência de geração solar própria, não à participação de fontes renováveis na eletricidade fornecida pela distribuidora.
+
 
 ## 3. Tabela Consolidada dos Indicadores
 
