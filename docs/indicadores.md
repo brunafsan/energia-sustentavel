@@ -112,7 +112,14 @@ Nos sistemas conectados à rede, o percentual de 0% refere-se apenas à ausênci
 
 ## 4. Apresentação dos Indicadores no Dashboard
 
-[Descrever como os indicadores serão apresentados no painel, utilizando gráficos, tabelas ou outros recursos visuais.]
+Os indicadores serão apresentados em um dashboard desenvolvido em Python, utilizando gráficos, tabelas e cartões com os principais resultados da simulação.
+O painel permitirá comparar os três cenários de iluminação por meio dos seguintes recursos:
+- Gráfico de barras: comparação do consumo mensal de energia e da eletricidade comprada da rede.
+- Cartões de indicadores: apresentação da economia energética percentual, da redução de custos mensais e da participação de energia solar própria.
+- Tabela comparativa: visualização consolidada dos resultados dos três sistemas.
+Os resultados serão calculados com base nas premissas do projeto, distinguindo o consumo das luminárias da energia comprada da rede elétrica.
+Como a praça é hipotética, o dashboard apresentará **dados simulados, não medições em tempo real**. A participação solar de 100% será identificada como uma estimativa condicionada ao atendimento integral da demanda.
+
 
 ## 5. Integração com os Cálculos Energéticos
 
