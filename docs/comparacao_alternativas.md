@@ -8,7 +8,9 @@ A análise avaliará o consumo energético, a energia comprada da rede, os custo
 
 ### 1.1. Alternativa 1 — Iluminação LED Convencional
 
-[Explicar o funcionamento das luminárias LED alimentadas pela rede elétrica e as melhorias esperadas em relação ao sistema atual.]
+A primeira alternativa propõe a substituição das 10 luminárias convencionais de vapor de sódio por luminárias LED de 100 W, utilizando como referência o modelo REEME LD-7P-100-3000-140.
+As novas luminárias continuarão sendo alimentadas pela rede elétrica, com funcionamento durante o período noturno e aproveitamento da infraestrutura existente, mediante as adequações necessárias.
+A principal melhoria esperada é a redução do consumo de energia elétrica e dos custos de funcionamento, devido à menor potência das luminárias LED em comparação com o sistema convencional.
 
 ### 1.2. Alternativa 2 — Iluminação LED Solar Fotovoltaica
 
