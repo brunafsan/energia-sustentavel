@@ -33,16 +33,27 @@ Na alternativa solar, o consumo das luminárias permanece em 343 kWh/mês, pois 
 **Unidade:** kWh/mês e %
 
 **Descrição:**
-
-[Explicar como será medida a redução do consumo ou da energia retirada da rede elétrica em relação ao sistema atual.]
+O indicador representa a economia energética estimada das alternativas em relação ao sistema convencional. Serão avaliadas tanto a redução do consumo das luminárias quanto a diminuição da quantidade de eletricidade comprada da rede.
+Essa distinção permite analisar os benefícios da eficiência energética das luminárias LED e do aproveitamento da energia solar fotovoltaica.
 
 **Método de cálculo:**
+- Economia absoluta (kWh/mês) = Consumo do sistema atual − Consumo da alternativa
+- Economia percentual (%) = (Economia absoluta ÷ Consumo do sistema atual) × 100
 
-[Apresentar as fórmulas utilizadas para calcular a economia absoluta e percentual.]
+Para calcular a redução da energia comprada da rede, serão utilizadas as mesmas fórmulas, substituindo o consumo pela quantidade de eletricidade adquirida da distribuidora.
 
 **Resultado estimado:**
 
-[Inserir os resultados obtidos na comparação das alternativas.]
+**Redução do consumo das luminárias:**
+- Alternativa 1 — LED na rede: 576,24 − 343 = 233,24 kWh/mês (40,48%).
+- Alternativa 2 — LED solar: 576,24 − 343 = 233,24 kWh/mês (40,48%).
+
+**Redução da energia comprada da rede:**
+- Alternativa 1 — LED na rede: 576,24 − 343 = 233,24 kWh/mês (40,48%).
+- Alternativa 2 — LED solar: 576,24 − 0 = 576,24 kWh/mês (100%).
+
+Na alternativa solar, a redução de 100% refere-se exclusivamente à compra de eletricidade da rede, considerando que o sistema fotovoltaico isolado atenda integralmente à demanda nas condições simuladas. As luminárias continuarão consumindo 343 kWh/mês.
+
 
 ### 2.3. Redução Estimada de Custos
 
