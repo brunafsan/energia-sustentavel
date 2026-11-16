@@ -21,15 +21,28 @@ A principal melhoria esperada é a redução da dependência da rede elétrica p
 
 ## 2. Comparação do Consumo Energético
 
-[Apresentar o consumo estimado das alternativas, considerando a mesma necessidade de iluminação e o mesmo período de funcionamento.]
+Para comparar o consumo energético dos três cenários, serão consideradas 10 luminárias em funcionamento durante 11 horas e 26 minutos por dia, totalizando 343 horas em um mês de 30 dias.
+No sistema convencional, será considerada a potência de 150 W por lâmpada, acrescida de 18 W de perdas estimadas do reator. Nas duas alternativas propostas, serão utilizadas luminárias LED de 100 W.
+A comparação será realizada considerando a mesma quantidade de pontos de iluminação e o mesmo período de funcionamento, buscando representar necessidades semelhantes de iluminação.
 
 | Critério | Sistema Atual | Alternativa 1 | Alternativa 2 |
 |---|---|---|---|
-| Quantidade de luminárias | [Preencher] | [Preencher] | [Preencher] |
-| Potência por luminária (W) | [Preencher] | [Preencher] | [Preencher] |
-| Horas de funcionamento por dia | [Preencher] | [Preencher] | [Preencher] |
-| Consumo mensal (kWh) | [Preencher] | [Preencher] | [Preencher] |
-| Economia em relação ao sistema atual (%) | 0% | [Preencher] | [Preencher] |
+| Quantidade de luminárias | 10 | 10 | 10 |
+| Potência por luminária (W) | 168 W | 100 W | 100 W |
+| Horas de funcionamento por dia | 11h26min | 11h26min | 11h26min |
+| Consumo mensal (kWh) | 576,24 | 343,00 | 343,00 |
+| Economia em relação ao sistema atual (%) | 0% | 40,48% | 40,48% |
+|Energia elétrica comprada da rede (kWh/mês) | 576,24 | 343,00 | 0,00 |
+
+A compra de eletricidade da rede na alternativa solar será considerada nula somente nas condições simuladas em que o sistema fotovoltaico isolado consiga atender integralmente à demanda energética.
+
+**Análise dos Resultados**
+
+A substituição das luminárias convencionais pelas luminárias LED proporciona uma redução estimada de 233,24 kWh no consumo mensal da iluminação, equivalente a aproximadamente 40,48%.
+As duas alternativas LED apresentam o mesmo consumo energético, pois utilizam luminárias de mesma potência, quantidade e tempo de funcionamento.
+A principal diferença está na origem da energia utilizada. Na alternativa 1, a eletricidade continuará sendo fornecida pela rede de distribuição. Na alternativa 2, será fornecida pelo sistema fotovoltaico com armazenamento em baterias.
+Assim, a alternativa solar poderá reduzir em até 100% a compra de eletricidade da rede nas condições simuladas, sem eliminar o consumo energético das luminárias.
+Os valores apresentados correspondem ao consumo dos equipamentos de iluminação. As perdas adicionais do sistema fotovoltaico são consideradas separadamente nas estimativas de geração e armazenamento apresentadas nas premissas do projeto.
 
 ## 3. Custos Estimados
 
