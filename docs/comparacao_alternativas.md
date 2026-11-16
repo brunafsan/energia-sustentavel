@@ -229,7 +229,34 @@ Limitações da simulação: a capacidade de geração, o armazenamento e a comp
 
 ## 7. Comparação Final
 
-[Elaborar uma tabela ou síntese comparativa considerando consumo, custos, viabilidade, impactos ambientais, benefícios e limitações.]
+A comparação final considera o sistema convencional existente e as duas alternativas propostas para a iluminação da praça comunitária hipotética de Osasco.
+Serão avaliados o consumo energético, os custos de implantação e operação, a viabilidade técnica, os impactos ambientais, os benefícios e as limitações de cada cenário, utilizando as estimativas e premissas estabelecidas no projeto.
+
+|Critério | Sistema Atual - Convencional | Alternativa 1 - LED na Rede | Alternativa 2 - LED Solar|
+|---|---|---|---|
+|Quantidade de luminárias | 10 | 10 | 10 |
+|Potência por ponto de iluminação | 168 W | 100 W | 100 W |
+|Consumo mensal da iluminação | 576,24 kWh | 343 kWh | 343 kWh |
+|Redução do consumo energético | Referência (0%) | 40,48% | 40,48% |
+|Energia comprada da rede | 576,24 kWh/mês | 343 kWh/mês | 0 kWh/mês |
+|Investimento inicial | R$ 0,00 (existente) | R$ 12.500,00 | R$ 63.030,00 |
+|Custo mensal de operação | R$ 280,18 | R$ 168,92 | R$ 120,00 |
+|Economia mensal estimada | Referência (R$ 0,00) | R$ 111,26 | R$ 160,18 |
+|Viabilidade técnica | Infraestrutura existente | Implantação mais simples, com aproveitamento da infraestrutura | Maior complexidade, exigindo geração, armazenamento e espaço adequado |
+|Impactos ambientais | Maior consumo de eletricidade | Menor consumo energético e menos equipamentos adicionais | Uso de energia renovável, mas com impactos adicionais de fabricação e descarte |
+|Principais benefícios | Não exige novo investimento inicial | Eficiência energética, menor investimento e redução dos custos operacionais | Eficiência energética, geração renovável e redução da dependência da rede |
+|Principais limitações | Maior consumo e custo de operação | Dependência da rede elétrica e de suas tarifas | Investimento elevado, variação da geração solar e necessidade de manutenção das baterias e equipamentos |
+
+Na alternativa solar, a compra de eletricidade da rede será considerada nula apenas nas condições simuladas em que o sistema fotovoltaico isolado consiga atender integralmente à demanda. Os custos e as economias também dependem das premissas de manutenção adotadas.
+
+**Análise Comparativa**
+
+As duas alternativas LED apresentam redução estimada de 40,48% no consumo energético da iluminação em relação ao sistema convencional, pois utilizam luminárias de mesma potência e período de funcionamento.
+A alternativa LED conectada à rede apresenta menor investimento inicial e implantação mais simples, aproveitando a infraestrutura elétrica existente.
+Já a alternativa solar apresenta maior economia operacional estimada e permite o aproveitamento de energia renovável, mas exige investimento inicial significativamente superior e maior complexidade de instalação e manutenção.
+Em relação aos impactos ambientais, ambas as alternativas oferecem benefícios potenciais. Entretanto, não foi realizada uma Análise de Ciclo de Vida, sendo necessário considerar também os impactos relacionados à fabricação e ao descarte dos equipamentos.
+Dessa forma, a comparação demonstra que as alternativas apresentam vantagens e limitações distintas. A definição da solução mais adequada deverá considerar conjuntamente a eficiência energética, os custos, a viabilidade técnica e os benefícios esperados para a comunidade.
+
 
 ## 8. Alternativa Recomendada
 
