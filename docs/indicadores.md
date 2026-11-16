@@ -61,15 +61,20 @@ Na alternativa solar, a redução de 100% refere-se exclusivamente à compra de 
 
 **Descrição:**
 
-[Explicar como será avaliada a redução dos custos mensais de operação.]
+O indicador representa a economia mensal estimada nos custos de operação das alternativas em relação ao sistema convencional, considerando os gastos com eletricidade e as reservas de manutenção estabelecidas no projeto.
 
 **Método de cálculo:**
 
-[Apresentar a fórmula utilizada para comparar os custos do sistema atual e das alternativas.]
+Custo mensal de operação = Custo da eletricidade comprada da rede + Reserva mensal de manutenção
+Economia mensal (R$) = Custo mensal do sistema atual − Custo mensal da alternativa
 
 **Resultado estimado:**
+- Sistema convencional: R$ 250,18 + R$ 30,00 = R$ 280,18/mês.
+- Alternativa 1 — LED na rede: R$ 280,18 − R$ 168,92 = R$ 111,26/mês de economia.
+- Alternativa 2 — LED solar: R$ 280,18 − R$ 120,00 = R$ 160,18/mês de economia.
 
-[Inserir o valor estimado da economia mensal.]
+A alternativa solar apresenta maior economia operacional estimada, considerando que o sistema fotovoltaico atenda integralmente à demanda sem compra de eletricidade da rede.
+Entretanto, os resultados dependem das premissas de manutenção e não incluem os investimentos iniciais nem grandes reparos e substituições futuras de equipamentos.
 
 ### 2.4. Participação de Energia Renovável
 
