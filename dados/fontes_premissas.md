@@ -25,7 +25,12 @@ Essas informações servirão como base para os cálculos de consumo de energia,
 
 ### 3.1. Características da Praça
 
-[Informar as características consideradas para o espaço comunitário, incluindo a quantidade de luminárias e as condições de utilização.]
+Para a realização do estudo, será considerada uma praça comunitária hipotética, localizada em uma região residencial urbana do município de Osasco, em São Paulo, e utilizada pela população para atividades de lazer e convivência.
+A escolha de Osasco como município de referência foi fundamentada na disponibilidade de dados oficiais aplicáveis à análise energética e na existência de iniciativas reais de modernização da iluminação pública. Segundo a Prefeitura de Osasco (2021), o programa Cidade Iluminada já havia instalado 1.009 luminárias decorativas LED em praças, parques e áreas externas de prédios públicos até a data da publicação. Além disso, o município foi beneficiado por um projeto de eficiência energética da Enel voltado à substituição de sistemas convencionais de iluminação pública por luminárias LED.
+Essas iniciativas demonstram a aplicação de tecnologias mais eficientes no município e justificam sua utilização como referência para o estudo, embora a praça analisada seja hipotética.
+Como premissa inicial, a praça contará com 10 pontos de iluminação, cada um equipado com uma luminária convencional alimentada pela rede elétrica. Essa quantidade foi adotada para fins de simulação, permitindo estimar o consumo energético e comparar as alternativas propostas.
+Nos três cenários analisados, será mantida a mesma quantidade de pontos de iluminação, buscando atender a necessidades equivalentes de iluminação.
+A quantidade de energia elétrica consumida será estimada em kWh, considerando a potência das luminárias, a quantidade de equipamentos e o tempo de funcionamento. Os resultados serão apresentados na análise energética, com base nas premissas adotadas e nas informações técnicas consultadas.
 
 ### 3.2. Funcionamento da Iluminação
 
