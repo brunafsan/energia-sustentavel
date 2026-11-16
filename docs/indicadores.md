@@ -117,13 +117,18 @@ O painel permitirá comparar os três cenários de iluminação por meio dos seg
 - Gráfico de barras: comparação do consumo mensal de energia e da eletricidade comprada da rede.
 - Cartões de indicadores: apresentação da economia energética percentual, da redução de custos mensais e da participação de energia solar própria.
 - Tabela comparativa: visualização consolidada dos resultados dos três sistemas.
+
 Os resultados serão calculados com base nas premissas do projeto, distinguindo o consumo das luminárias da energia comprada da rede elétrica.
 Como a praça é hipotética, o dashboard apresentará **dados simulados, não medições em tempo real**. A participação solar de 100% será identificada como uma estimativa condicionada ao atendimento integral da demanda.
 
 
 ## 5. Integração com os Cálculos Energéticos
 
-[Explicar como os dados e os resultados dos cálculos realizados em Python serão utilizados para alimentar os indicadores.]
+Os indicadores serão calculados em Python, utilizando os dados e as premissas registrados no arquivo fontes_premissas.md e organizados em consumo_energetico.csv.
+O arquivo dashboard/calculos.py será responsável pelo processamento dos valores, utilizando funções para calcular o consumo mensal de energia, a economia energética absoluta e percentual, os custos de eletricidade, a redução dos custos de operação e a participação de energia renovável.
+Os resultados serão utilizados pelo arquivo dashboard/app.py para alimentar os gráficos, cartões de indicadores e tabelas comparativas do dashboard.
+A integração permitirá apresentar os três cenários de iluminação de forma padronizada, distinguindo o consumo energético das luminárias da eletricidade comprada da rede.
+Como o projeto considera uma praça hipotética, os indicadores serão gerados a partir de dados simulados, sem utilização de medições em tempo real.
 
 ## 6. Limitações dos Indicadores
 
