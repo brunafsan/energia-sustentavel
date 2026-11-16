@@ -2,7 +2,9 @@
 
 ## 1. Apresentação das Alternativas
 
-[Apresentar brevemente as duas alternativas propostas para melhorar a iluminação da praça comunitária.]
+Para melhorar a eficiência energética da praça comunitária hipotética de Osasco, serão comparadas duas alternativas: luminárias LED conectadas à rede elétrica e luminárias LED alimentadas por energia solar fotovoltaica.
+Ambas consideram a substituição dos 10 pontos convencionais por luminárias LED de 100 W, mantendo o mesmo período de funcionamento.
+A análise avaliará o consumo energético, a energia comprada da rede, os custos, a viabilidade técnica, os impactos ambientais e as limitações de cada alternativa.
 
 ### 1.1. Alternativa 1 — Iluminação LED Convencional
 
