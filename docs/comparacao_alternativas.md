@@ -130,7 +130,13 @@ A economia mensal estimada será:
 R$ 280,18 − R$ 120,00 = **R$ 160,18 por mês**.
 Considerando 12 meses padronizados, a economia anual projetada será de **R$ 1.922,16.**
 
-**TABELA AQUI**
+**Comparação da Economia Financeira**
+
+|Critério | Sistema Atual | Alternativa 1: LED na rede | Alternativa 2: LED solar |
+|---|---|---|---|
+|Custo mensal de operação | R$ 280,18 | R$ 168,92 | R$ 120,00 |
+|Economia mensal | R$ 0,00 | R$ 111,26 | R% 160,18 |
+|Economia anual projetada | R$ 0,00 | R$ 1.335,12 | R$ 1.922,16 |
 
 Os resultados indicam que ambas as alternativas poderão reduzir os custos mensais de operação da iluminação da praça.
 A alternativa solar apresenta maior economia operacional estimada, porém exige investimento inicial significativamente superior ao da iluminação LED conectada à rede.
