@@ -71,7 +71,41 @@ Assim, os modelos serão utilizados para a comparação energética inicial, sem
 
 ### 3.4. Condições de Geração Solar
 
-[Informar as premissas relacionadas à geração fotovoltaica, incluindo disponibilidade solar, perdas estimadas e armazenamento de energia, quando aplicável.]
+Para a alternativa de iluminação solar fotovoltaica, será considerado um sistema capaz de gerar energia elétrica durante o dia e armazená-la em baterias para alimentar as luminárias durante o período noturno.
+
+**Disponibilidade Solar**
+A estimativa de geração fotovoltaica será baseada nas condições de radiação solar do município de Osasco, em São Paulo. Como referência, será utilizado o Memorial Descritivo e Termo de Referência da Fundação Instituto Tecnológico de Osasco (FITO, 2020), que apresenta estimativas de geração fotovoltaica elaboradas com dados de radiação solar atribuídos ao CRESESB.
+A partir da tabela de irradiação global horizontal apresentada na página 18 do documento, foi calculada uma média anual aproximada de 3,95 kWh/m²/dia, considerando o total anual de 1.442,9 kWh/m² dividido por 365 dias.
+Para junho, mês com menor irradiação global horizontal na tabela consultada, o valor corresponde a aproximadamente 2,97 kWh/m²/dia, calculado a partir de 89,1 kWh/m² divididos pelos 30 dias do mês.
+Para a simulação, será adotado o valor aproximado de 2,97 horas de sol pico por dia, utilizando a irradiação horizontal como referência simplificada de disponibilidade solar reduzida. Essa escolha busca avaliar a capacidade do sistema fotovoltaico de atender à demanda energética da praça em condições médias menos favoráveis do que a média anual.
+Os valores representam estimativas de irradiação para a região, não medições realizadas na praça hipotética. A geração efetiva também dependerá da orientação e inclinação dos painéis, das condições meteorológicas e das características da instalação.
+
+**Perdas Energéticas**
+Para os cálculos, será adotado um fator global de aproveitamento de 70%, equivalente a uma estimativa de perdas de 30% no percurso da geração fotovoltaica até o fornecimento da energia às luminárias.
+Esse percentual foi definido como premissa do projeto para representar, de maneira simplificada, possíveis perdas relacionadas à temperatura dos painéis, sujeira, sombreamento, cabeamento, armazenamento e conversão elétrica.
+A escolha considera a necessidade de incorporar perdas à simulação, conforme os princípios técnicos de funcionamento dos sistemas fotovoltaicos e de armazenamento apresentados pelo Departamento de Energia dos Estados Unidos e pelo Governo Australiano.
+O aproveitamento de 70% não corresponde a uma eficiência medida ou especificada pelas fontes consultadas, sendo uma hipótese de cálculo adotada pela equipe para avaliar a solução proposta.
+
+**Geração e Armazenamento de Energia**
+Considerando as 10 luminárias LED de 100 W e o funcionamento diário de 11 horas e 26 minutos, a demanda energética estimada será de aproximadamente 11,43 kWh por noite.
+Como pré-dimensionamento, será considerado um sistema fotovoltaico com potência instalada de 6,5 kWp. Essa potência foi escolhida para atender à demanda energética prevista e oferecer uma margem de geração no cenário de disponibilidade solar reduzida adotado.
+Com 2,97 horas de sol pico por dia e aproveitamento global de 70%, a geração útil estimada será de aproximadamente 13,51 kWh por dia, superior à demanda noturna calculada.
+Para o armazenamento, será considerada uma capacidade nominal de 20,48 kWh, correspondente a quatro baterias de lítio de 5,12 kWh. Serão adotadas como premissas uma profundidade de descarga de 80% e uma eficiência de conversão de saída de 95%.
+A escolha da capacidade de armazenamento foi fundamentada na necessidade de fornecer energia suficiente para uma noite de funcionamento, considerando uma margem sobre o consumo previsto.
+Nessas condições, a energia disponível para alimentar as luminárias será estimada em aproximadamente 15,56 kWh, superior à demanda noturna de 11,43 kWh. A verificação da capacidade útil das baterias será realizada separadamente da estimativa de geração, sem descontar novamente as mesmas perdas já consideradas no fator global de aproveitamento.
+
+**Inversor e Controle de Energia**
+Para a conversão e o gerenciamento da energia elétrica, será considerada a utilização de um inversor compatível com o sistema fotovoltaico proposto, capaz de atender à demanda simultânea de 1 kW das luminárias.
+Como premissa do projeto, o conjunto de conversão e controle deverá permitir o aproveitamento dos 6,5 kWp de potência fotovoltaica instalada e o gerenciamento da energia armazenada nas baterias.
+A escolha de não definir um modelo comercial específico considera o caráter conceitual da proposta, que busca avaliar a viabilidade energética por meio de estimativas e simulações, sem desenvolver um projeto executivo de instalação.
+Em uma implantação real, seria necessário selecionar equipamentos compatíveis com as tensões, correntes e características elétricas dos painéis e das baterias.
+
+**Condições da Estimativa**
+Os valores apresentados representam premissas e estimativas utilizadas para a simulação energética, não constituindo um projeto executivo de instalação.
+A geração calculada considera condições médias de disponibilidade solar reduzida, não garantindo que a mesma quantidade de energia seja produzida diariamente.
+Uma eventual implantação dependeria da avaliação das condições locais, das características dos equipamentos, da área disponível para instalação dos painéis e da autonomia necessária durante períodos prolongados de baixa geração solar.
+Também seria necessário avaliar a eficiência dos equipamentos de conversão e controle, além de confirmar a compatibilidade elétrica entre os componentes, considerando que ainda não foi definido um modelo comercial específico para o sistema. 
+
 
 ### 3.5. Custos e Tarifas
 
