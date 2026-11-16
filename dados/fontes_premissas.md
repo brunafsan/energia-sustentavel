@@ -3,7 +3,9 @@
 
 ## 1. Objetivo
 
-[Explicar a finalidade deste documento e sua importância para a fundamentação dos cálculos e estimativas do projeto.]
+Este documento tem como objetivo apresentar as fontes de dados e as premissas utilizadas na análise energética do projeto Iluminação Sustentável para Praças Comunitárias.
+Como o estudo considera uma praça hipotética, serão utilizados dados de fontes confiáveis e estimativas justificadas para definir as características dos sistemas de iluminação convencional, LED e solar fotovoltaica.
+Essas informações servirão como base para os cálculos de consumo de energia, custos de funcionamento e comparação das alternativas, garantindo maior transparência e coerência aos resultados apresentados no dashboard.
 
 ## 2. Fontes de Dados
 
