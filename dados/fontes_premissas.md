@@ -42,7 +42,32 @@ O tempo utilizado representa uma referência regulatória para estimativas de fa
 
 ### 3.3. Características dos Equipamentos
 
-[Registrar as potências e demais características das luminárias convencionais, LED e solares.]
+Para a análise energética, foram selecionados modelos reais de luminárias utilizadas em aplicações de iluminação pública, considerando potência elétrica, fluxo luminoso, eficiência energética e disponibilidade de informações técnicas verificáveis.
+A escolha das tecnologias foi fundamentada também em exemplos de modernização da iluminação de praças públicas brasileiras, como a Praça Vilaboim, em São Paulo, onde luminárias convencionais de vapor de sódio e mercúrio foram substituídas por iluminação LED.
+
+**Sistema convencional — Luminária de vapor de sódio**
+Para representar o sistema convencional da praça hipotética, foi selecionada como referência a luminária REPUME, modelo DI-960 150W-VS, registrada no Inmetro sob o nº 006047/2019.
+O equipamento apresenta potência nominal de 150 W, fluxo luminoso declarado de 13.485 lúmens e eficiência luminosa declarada de 89,9 lm/W.
+A escolha foi fundamentada na utilização histórica de lâmpadas de vapor de sódio na iluminação pública, inclusive em praças, e na disponibilidade de características técnicas documentadas pelo Inmetro.
+Para a estimativa do consumo energético do sistema convencional, também serão consideradas as perdas elétricas do reator, equipamento necessário ao funcionamento da lâmpada de vapor de sódio. Essas perdas serão fundamentadas em referências técnicas, evitando subestimar o consumo total do sistema.
+
+**Alternativa 1 — Iluminação LED conectada à rede elétrica**
+Para a primeira alternativa, foi selecionada a luminária LED REEME, modelo LD-7P-100-3000-140, registrada no Inmetro sob o nº 005531/2023.
+De acordo com a entrada incluída no registro do Inmetro em 25/09/2023, o equipamento apresenta potência nominal de 100 W, fluxo luminoso declarado de 15.000 lúmens, eficiência luminosa de 150 lm/W, temperatura de cor de 3.000 K e proteção IP66.
+A escolha foi fundamentada na menor potência elétrica e na maior eficiência luminosa declarada em comparação com a luminária convencional selecionada. A linha LD-7P também possui aplicação documentada em projetos de modernização da iluminação pública, como no município de Itaquaquecetuba, em São Paulo.
+Durante a consulta ao Inmetro, foi identificado que o histórico do registro apresenta uma entrada excluída e outra incluída para o mesmo código de modelo, com especificações luminosas diferentes. Para a simulação, serão utilizados os dados da entrada marcada como incluída, correspondente a 15.000 lúmens e 150 lm/W.
+
+**Alternativa 2 — Iluminação LED alimentada por energia solar fotovoltaica**
+Para a segunda alternativa, será considerada a mesma luminária LED REEME de 100 W utilizada na alternativa 1, porém alimentada por um sistema fotovoltaico isolado da rede elétrica.
+A proposta prevê a utilização de painéis solares, baterias para armazenamento da energia gerada e equipamentos de controle e conversão necessários para alimentar as luminárias.
+A utilização do mesmo modelo LED nas duas alternativas foi escolhida para manter constantes as características do equipamento de iluminação, permitindo comparar principalmente as diferenças entre as fontes de fornecimento de energia.
+As características e capacidades dos componentes fotovoltaicos serão apresentadas na seção 3.4, considerando o consumo energético previsto, as condições de geração solar de Osasco e as perdas do sistema.
+
+**Justificativa e Limitações da Seleção**
+Os equipamentos foram selecionados como referências técnicas para a simulação, com base em especificações verificáveis e na aplicação das respectivas tecnologias em sistemas de iluminação pública.
+Embora os fluxos luminosos declarados sejam próximos, isso não garante que as luminárias ofereçam iluminação equivalente em toda a praça. A distribuição da luz, a altura dos postes, o espaçamento entre os pontos de iluminação e as condições de instalação também influenciam o resultado.
+Assim, os modelos serão utilizados para a comparação energética inicial, sem substituir um estudo luminotécnico necessário para uma implantação real
+
 
 ### 3.4. Condições de Geração Solar
 
