@@ -114,7 +114,28 @@ Dessa forma, a economia operacional será considerada juntamente com os investim
 
 ## 4. Viabilidade Técnica
 
-[Explicar as condições necessárias para implementar cada alternativa, considerando infraestrutura elétrica, espaço disponível, incidência solar e manutenção.]
+A viabilidade técnica das alternativas será analisada considerando as condições necessárias para sua implantação na praça comunitária hipotética, incluindo infraestrutura elétrica, espaço disponível, incidência solar e necessidades de manutenção.
+
+**Alternativa 1 — Iluminação LED Conectada à Rede Elétrica**
+A implantação da primeira alternativa prevê a substituição das 10 luminárias convencionais por luminárias LED de 100 W, mantendo o fornecimento de energia pela rede elétrica.
+Como a praça já possui postes e infraestrutura elétrica básica, a proposta considera o aproveitamento dessas estruturas, mediante verificação das condições de instalação, do cabeamento, das conexões e dos dispositivos de proteção.
+Também seria necessário avaliar a altura e o espaçamento dos postes, além da distribuição da luz, para verificar se as novas luminárias atenderiam adequadamente às necessidades de iluminação do espaço.
+A manutenção envolveria principalmente inspeções periódicas, verificação das conexões elétricas e eventuais substituições de componentes.
+Dessa forma, a alternativa apresenta condições de implantação mais simples, por aproveitar a infraestrutura existente e não exigir um sistema próprio de geração e armazenamento de energia.
+
+**Alternativa 2 — Iluminação LED Solar Fotovoltaica**
+A implantação da segunda alternativa exigiria a instalação de 10 painéis solares de 650 W, quatro baterias de 5,12 kWh e um conjunto de conversão e controle de energia, além das luminárias LED e dos dispositivos de proteção necessários.
+Por se tratar de um sistema isolado da rede elétrica, seria necessário verificar se a praça possui espaço adequado para instalar os painéis, considerando a incidência solar, a orientação, a inclinação e a presença de possíveis sombreamentos.
+Também seria necessário definir locais apropriados para o armazenamento das baterias e a instalação dos equipamentos de conversão e controle, garantindo condições adequadas de funcionamento e proteção.
+O dimensionamento elétrico deveria confirmar a compatibilidade entre os componentes e a capacidade do sistema de atender à demanda noturna, inclusive durante períodos de baixa geração solar.
+A manutenção envolveria inspeções dos painéis, limpeza quando necessária, verificação das baterias, conexões e equipamentos de controle, além de possíveis substituições ao longo da vida útil do sistema.
+Assim, a alternativa solar apresenta maior complexidade de implantação, pois depende de espaço disponível, condições adequadas de geração solar e equipamentos adicionais de armazenamento e conversão de energia.
+
+**Considerações sobre a Viabilidade Técnica**
+As duas alternativas são tecnicamente possíveis como propostas conceituais, mas sua implantação dependeria de avaliações específicas das condições reais da praça.
+A iluminação LED conectada à rede apresenta menor complexidade por aproveitar a infraestrutura existente. Já a alternativa solar oferece a possibilidade de utilizar energia renovável de forma independente da rede elétrica, mas exige verificações adicionais relacionadas à geração, ao armazenamento e à compatibilidade dos componentes.
+Portanto, a confirmação da viabilidade técnica dependeria de levantamentos locais, dimensionamento elétrico e luminotécnico e avaliação das condições de instalação e manutenção.
+
 
 ## 5. Impactos Ambientais
 
