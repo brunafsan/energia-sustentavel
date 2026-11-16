@@ -35,7 +35,32 @@ A principal melhoria esperada é a redução da dependência da rede elétrica p
 
 ### 3.1. Custos de Implantação
 
-[Estimar os custos dos equipamentos e da instalação de cada alternativa. Informar as fontes dos valores.]
+Para estimar os investimentos necessários à implantação das alternativas, serão utilizados os preços comerciais e as premissas orçamentárias definidos no documento fontes_premissas.md.
+A praça hipotética já possui 10 pontos de iluminação e infraestrutura elétrica básica. Dessa forma, serão considerados principalmente os custos de substituição das luminárias e de instalação dos equipamentos adicionais.
+
+**Sistema Atual — Iluminação Convencional**
+O sistema convencional será utilizado como referência para a comparação, sem investimento inicial, pois representa a infraestrutura já existente na praça.
+
+**Alternativa 1 — Iluminação LED Conectada à Rede Elétrica**
+A primeira alternativa prevê a substituição das 10 luminárias convencionais por luminárias LED de 100 W, aproveitando a infraestrutura elétrica existente.
+**TABELA AQUI**
+O valor de R$ 1.000 por luminária foi adotado como premissa arredondada, considerando o preço registrado de R$ 904,83 para uma luminária REEME da linha LD-7P/100 e o preço comercial de R$ 994,48 de uma luminária LED com características semelhantes.
+O custo de R$ 2.500 para instalação e adequações elétricas representa uma estimativa estabelecida pela equipe.
+
+**Alternativa 2 — Iluminação LED Solar Fotovoltaica**
+A segunda alternativa prevê a utilização das mesmas 10 luminárias LED de 100 W, alimentadas por um sistema fotovoltaico isolado da rede elétrica, com painéis solares, baterias e equipamentos de conversão e controle.
+
+**TABELA AQUI**
+
+Os custos dos painéis solares e das baterias foram calculados com base em preços comerciais de referência de R$ 739 por painel e R$ 7.160 por bateria.
+Os valores referentes ao conjunto de conversão e controle, às estruturas, ao cabeamento, às proteções e à instalação foram estabelecidos como premissas orçamentárias da equipe, sem cotação de um projeto executivo.
+O painel solar utilizado como referência estava indisponível em estoque na consulta realizada, sendo seu preço considerado apenas para fins de estimativa.
+
+**TABELA AQUI**
+
+A alternativa LED conectada à rede apresenta menor investimento inicial, enquanto a alternativa solar exige um custo mais elevado devido à necessidade de painéis, baterias e equipamentos adicionais.
+Entretanto, o investimento inicial não será utilizado isoladamente para determinar a alternativa mais vantajosa. A comparação econômica também considerará os custos de operação e manutenção.
+
 
 ### 3.2. Custos de Operação
 
