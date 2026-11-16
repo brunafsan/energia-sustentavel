@@ -21,8 +21,6 @@ Essas informações servirão como base para os cálculos de consumo de energia,
 
 ## 3. Premissas Adotadas
 
-[Informar os valores e as condições consideradas para realizar os cálculos, identificando quais são estimativas e quais foram obtidos em fontes consultadas.]
-
 ### 3.1. Características da Praça
 
 Para a realização do estudo, será considerada uma praça comunitária hipotética, localizada em uma região residencial urbana do município de Osasco, em São Paulo, e utilizada pela população para atividades de lazer e convivência.
