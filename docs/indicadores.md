@@ -13,16 +13,20 @@ Como o estudo considera uma praça hipotética, os indicadores representarão re
 **Unidade:** kWh/mês
 
 **Descrição:**
-
-[Explicar o que o indicador representa e sua importância para o projeto.]
+O indicador representa a quantidade de energia elétrica consumida mensalmente pelas luminárias da praça. Sua importância está em permitir a comparação do consumo entre o sistema convencional e as alternativas LED, identificando possíveis reduções no uso de energia.
 
 **Método de cálculo:**
-
-[Apresentar a fórmula utilizada para calcular o consumo mensal.]
+Consumo mensal (kWh) = (Quantidade de luminárias × Potência por luminária (W) × Horas mensais de funcionamento) ÷ 1.000
+Para os três cenários, serão consideradas 10 luminárias e 343 horas de funcionamento mensal.
 
 **Resultado estimado:**
+- Sistema convencional: (10 × 168 × 343) ÷ 1.000 = 576,24 kWh/mês.
+- Alternativa 1 — LED na rede: (10 × 100 × 343) ÷ 1.000 = 343 kWh/mês.
+- Alternativa 2 — LED solar: (10 × 100 × 343) ÷ 1.000 = 343 kWh/mês.
 
-[Inserir o resultado obtido na análise energética.]
+Os resultados demonstram que ambas as alternativas LED apresentam menor consumo energético em relação ao sistema convencional.
+Na alternativa solar, o consumo das luminárias permanece em 343 kWh/mês, pois a diferença está na fonte de fornecimento de energia, e não na potência dos equipamentos.
+
 
 ### 2.2. Economia Energética Estimada
 
