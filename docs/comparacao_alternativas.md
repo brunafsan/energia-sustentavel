@@ -44,23 +44,17 @@ O sistema convencional será utilizado como referência para a comparação, sem
 **Alternativa 1 — Iluminação LED Conectada à Rede Elétrica**
 A primeira alternativa prevê a substituição das 10 luminárias convencionais por luminárias LED de 100 W, aproveitando a infraestrutura elétrica existente.
 
-
-
 | Componente | Custo estimado |
 |---|---|
 | 10 luminárias LED de 100 W | R$ 10.000,00 |
 | Instalação e adequações elétricas | R$ 2.500,00 |
 | Investimento total | R$ 12.500,00 |
 
-
-
 O valor de R$ 1.000 por luminária foi adotado como premissa arredondada, considerando o preço registrado de R$ 904,83 para uma luminária REEME da linha LD-7P/100 e o preço comercial de R$ 994,48 de uma luminária LED com características semelhantes.
 O custo de R$ 2.500 para instalação e adequações elétricas representa uma estimativa estabelecida pela equipe.
 
 **Alternativa 2 — Iluminação LED Solar Fotovoltaica**
 A segunda alternativa prevê a utilização das mesmas 10 luminárias LED de 100 W, alimentadas por um sistema fotovoltaico isolado da rede elétrica, com painéis solares, baterias e equipamentos de conversão e controle.
-
-
 
 | Componente | Custo estimado | 
 |---|---|
@@ -71,7 +65,6 @@ A segunda alternativa prevê a utilização das mesmas 10 luminárias LED de 100
 | Estruturas, cabeamento e proteções | R$ 6.000,00 |
 | Instalação e adequações do sistema solar | R$ 5.000,00 |
 | **Investimento total** | **R$ 63.030,00** |
-
 
 Os custos dos painéis solares e das baterias foram calculados com base em preços comerciais de referência de R$ 739 por painel e R$ 7.160 por bateria.
 Os valores referentes ao conjunto de conversão e controle, às estruturas, ao cabeamento, às proteções e à instalação foram estabelecidos como premissas orçamentárias da equipe, sem cotação de um projeto executivo.
@@ -106,7 +99,15 @@ Na alternativa solar fotovoltaica isolada, as luminárias continuarão consumind
 Para essa alternativa, será adotada uma reserva mensal de manutenção de R$ 120,00, considerando a necessidade de cuidados com os painéis, baterias e equipamentos de conversão e controle.
 Dessa forma, o custo total estimado de operação será de R$ 120,00 por mês, nas condições previstas.
 
-**TABELA AQUI**
+**Comparação dos Custos Mensais**
+
+| Critério | Sistema Atual | Alternativa 1: LED na rede | Alternativa 2: LED solar |
+|---|---|---|---|
+| Consumo da iluminação (kWh/mês) | 576,24 |343,00 | 343,00 |
+| Energia comprada da rede (kWh/mês) | 576,24 |343,00 | 0,00 |
+| Custo mensal da eletricidade |R$ 250,18 | R$ 148,92 | R$0,00 |
+| Reserva mensal de manutenção | R$ 30,00 | R$ 20,00 | R$ 120,00 |
+| **Custo total mensal estimado** | **R$ 280,18** | **R$ 168,92** | **R$ 120,00** |
 
 A compra de energia da rede será considerada nula na alternativa solar somente nas condições simuladas em que o sistema fotovoltaico consiga atender integralmente à demanda.
 
