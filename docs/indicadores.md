@@ -101,14 +101,21 @@ Nos sistemas conectados à rede, o percentual de 0% refere-se apenas à ausênci
 
 ## 3. Tabela Consolidada dos Indicadores
 
-[Preencher a tabela com os resultados calculados.]
+A tabela apresenta os resultados estimados dos indicadores de eficiência energética e sustentabilidade para os três cenários analisados.
 
 | Indicador | Sistema Atual | Alternativa 1 | Alternativa 2 |
 |---|---|---|---|
-| Consumo mensal (kWh) | [Valor] | [Valor] | [Valor] |
-| Economia energética (%) | [Valor] | [Valor] | [Valor] |
-| Redução de custos (R$/mês) | [Valor] | [Valor] | [Valor] |
-| Participação renovável (%) | [Valor] | [Valor] | [Valor] |
+| Consumo mensal (kWh) | 576,24 | 343,00 | 343,00 |
+| Economia energética (%) | 0% | 40,48% | 40,48% |
+| Redução de custos (R$/mês) | R$ 0,00 | R$ 111,26 | R$ 160,18 |
+| Participação renovável (%) | 0% | 0% | 100% |
+
+O percentual de 100% de participação solar representa uma estimativa condicionada ao atendimento integral da demanda pelo sistema fotovoltaico nas condições simuladas.
+
+A economia energética corresponde à redução do consumo das luminárias em relação ao sistema convencional. Já a redução de custos considera a eletricidade comprada da rede e as reservas mensais de manutenção.
+
+A participação renovável refere-se exclusivamente à geração solar própria do projeto, não à composição da energia fornecida pela distribuidora.
+
 
 ## 4. Apresentação dos Indicadores no Dashboard
 
