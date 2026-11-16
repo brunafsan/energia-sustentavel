@@ -1,8 +1,10 @@
 # Indicadores de Eficiência Energética e Sustentabilidade
 
 ## 1. Objetivo dos Indicadores
-
-[Explicar a importância dos indicadores para acompanhar o consumo energético, a economia e os benefícios ambientais da iluminação sustentável.]
+Os indicadores têm como objetivo avaliar e comparar o desempenho energético, econômico e ambiental das alternativas de iluminação propostas para a praça comunitária hipotética de Osasco.
+Por meio de medidas quantitativas, será possível analisar o consumo de energia das luminárias, a redução da compra de eletricidade da rede, a economia financeira e o aproveitamento de energia solar renovável.
+Os resultados serão apresentados no dashboard do projeto, permitindo visualizar e comparar os três cenários com base nas premissas e nos cálculos realizados.
+Como o estudo considera uma praça hipotética, os indicadores representarão resultados simulados, não medições reais.
 
 ## 2. Indicadores Selecionados
 
