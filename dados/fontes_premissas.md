@@ -182,7 +182,38 @@ A redução do consumo de energia da rede não será considerada, isoladamente, 
 
 ## 4. Justificativa das Premissas
 
-[Explicar por que os valores adotados são adequados para o cenário estudado, relacionando-os às fontes disponíveis.]
+As premissas adotadas no projeto foram definidas considerando as características de uma praça comunitária hipotética, a disponibilidade de informações técnicas verificáveis e a necessidade de comparar alternativas de iluminação em condições semelhantes.
+
+**Características da Praça e Funcionamento**
+A escolha do município de Osasco foi fundamentada na disponibilidade de referências locais sobre modernização da iluminação pública, incluindo iniciativas da Prefeitura de Osasco e projetos de eficiência energética da Enel.
+A quantidade de 10 pontos de iluminação foi definida como premissa para representar uma praça comunitária de maneira simplificada, permitindo realizar os cálculos de consumo e custos sem depender de medições de um espaço real.
+O tempo de funcionamento de 11 horas e 26 minutos por dia foi adotado com base na referência estabelecida pela Resolução Homologatória ANEEL nº 2.590/2019 para o município de Osasco. Para os cálculos mensais, foi considerado um período padronizado de 30 dias, correspondente a 343 horas de funcionamento.
+Esses valores serão mantidos nos três cenários para permitir uma comparação energética sob as mesmas condições de operação.
+Características dos Equipamentos
+As luminárias convencionais e LED foram selecionadas a partir de modelos reais com informações técnicas disponíveis nos registros do Inmetro.
+Para o sistema convencional, foi adotada uma luminária de vapor de sódio de 150 W, com acréscimo estimado de 18 W de perdas do reator. Esse valor foi utilizado como referência técnica para representar o consumo adicional necessário ao funcionamento da lâmpada.
+Nas alternativas LED conectada à rede e solar fotovoltaica, será utilizada a mesma luminária de 100 W. Essa escolha permite comparar as fontes de alimentação elétrica sem alterar a potência e as características do equipamento de iluminação entre as duas alternativas.
+A utilização de modelos com características luminosas próximas busca estabelecer uma comparação energética inicial, embora a equivalência efetiva da iluminação dependa de uma avaliação luminotécnica.
+
+**Geração Solar e Armazenamento**
+Para estimar a disponibilidade solar, foram utilizados os dados de irradiação apresentados no Memorial Descritivo da Fundação Instituto Tecnológico de Osasco (FITO, 2020).
+Embora a média anual calculada a partir da tabela seja de aproximadamente 3,95 kWh/m²/dia, foi adotado o valor de 2,97 horas de sol pico por dia, correspondente à média de irradiação horizontal de junho, mês com menor valor na tabela consultada.
+Essa escolha busca avaliar a geração fotovoltaica em um cenário mensal de menor disponibilidade solar, evitando dimensionar a solução apenas com base na média anual.
+O fator global de aproveitamento de 70% foi definido como premissa para representar, de maneira simplificada, possíveis perdas associadas à geração, ao armazenamento e à conversão de energia.
+A potência fotovoltaica de 6,5 kWp, correspondente a 10 painéis de 650 W, foi adotada porque proporciona uma geração útil estimada de 13,51 kWh por dia nas condições simuladas, superior à demanda noturna de aproximadamente 11,43 kWh.
+Para o armazenamento, foram consideradas quatro baterias de 5,12 kWh, totalizando 20,48 kWh de capacidade nominal. A profundidade de descarga de 80% e a eficiência de saída de 95% foram estabelecidas como premissas para estimar uma capacidade útil de 15,56 kWh, suficiente para uma noite de funcionamento nas condições previstas.
+A capacidade útil das baterias foi verificada separadamente da geração diária, sem aplicar novamente ao cálculo de geração perdas já representadas pelo fator global de aproveitamento.
+Para o gerenciamento da energia, foi prevista a utilização de um conjunto de conversão e controle compatível com os painéis, as baterias e a demanda das luminárias. A escolha de não definir um modelo comercial específico considera o caráter conceitual do projeto.
+
+**Custos e Tarifas**
+Para estimar as despesas com eletricidade, foi adotada a tarifa de iluminação pública B4a da Enel Distribuição São Paulo, considerando a praça hipotética como um espaço público municipal alimentado em baixa tensão.
+O valor de R$ 0,43416/kWh foi obtido na tabela tarifária vigente a partir de julho de 2026 e aplicado igualmente aos sistemas convencional e LED conectados à rede.
+Os investimentos iniciais foram estimados a partir de preços comerciais, registros de preços públicos e premissas orçamentárias da equipe.
+O custo de R$ 1.000 por luminária LED foi adotado como valor arredondado, considerando a referência de R$ 904,83 para uma luminária REEME da mesma linha e potência e o preço comercial de R$ 994,48 de uma luminária com características semelhantes.
+Os custos dos painéis solares e das baterias foram definidos com base em valores anunciados por fornecedores, enquanto as despesas de instalação, estruturas, proteções e conjunto de conversão e controle foram estimadas pela equipe.
+Também foram adotadas reservas mensais de manutenção para representar os gastos recorrentes dos três sistemas. Esses valores permitem realizar uma comparação econômica preliminar, sem substituir orçamentos ou contratos de manutenção.
+Dessa forma, as premissas buscam estabelecer condições de comparação coerentes com o objetivo do estudo, mantendo identificados os valores provenientes de fontes consultadas e aqueles definidos especificamente para a simulação.
+
 
 ## 5. Limitações dos Dados
 
