@@ -217,7 +217,45 @@ Dessa forma, as premissas buscam estabelecer condições de comparação coerent
 
 ## 5. Limitações dos Dados
 
-[Identificar possíveis incertezas, ausência de medições reais e fatores que podem influenciar os resultados.]
+O projeto utiliza dados técnicos de fontes consultadas e premissas estabelecidas pela equipe para analisar uma praça comunitária hipotética. Portanto, os resultados representam estimativas de consumo, geração de energia e custos, não medições realizadas em uma instalação existente.
+
+**Ausência de Medições Reais**
+Como a praça analisada é hipotética, não foram realizados levantamentos presenciais para verificar a quantidade necessária de luminárias, o consumo elétrico efetivo, as condições dos postes e da infraestrutura ou as características físicas do local.
+A quantidade de 10 pontos de iluminação foi definida para a simulação e poderá não corresponder às necessidades de uma praça real.
+O tempo diário de 11 horas e 26 minutos representa uma referência regulatória de funcionamento, não uma medição local. Além disso, a adoção de meses padronizados de 30 dias simplifica os cálculos, sem representar exatamente a duração de todos os meses do ano.
+
+**Desempenho dos Equipamentos**
+As potências, os fluxos luminosos e as eficiências utilizados foram obtidos de registros técnicos dos equipamentos selecionados.
+Entretanto, os valores declarados pelos fabricantes não substituem medições de desempenho em campo. No sistema convencional, as perdas de 18 W do reator foram estimadas a partir de um modelo de referência, não do equipamento efetivamente instalado na luminária escolhida.
+Embora as luminárias convencional e LED apresentem fluxos luminosos próximos, não foi realizado um estudo luminotécnico para verificar a distribuição da luz, a iluminância, a uniformidade e o atendimento às necessidades reais de iluminação da praça.
+Dessa forma, a comparação considera principalmente o consumo energético, sem comprovar que os diferentes equipamentos produziriam condições equivalentes de iluminação em uma instalação real.
+
+**Condições de Geração Solar**
+Os dados de irradiação foram obtidos de um estudo técnico de 2020 referente ao município de Osasco, não de medições realizadas no local hipotético.
+O valor de 2,97 horas de sol pico representa uma aproximação baseada na média de irradiação horizontal de junho, não a menor disponibilidade solar possível em um dia específico.
+A geração real poderá variar conforme as condições meteorológicas, a temperatura, a orientação e a inclinação dos painéis, o sombreamento, a sujeira e as características da instalação.
+O fator global de aproveitamento de 70% foi adotado como premissa simplificada e não corresponde ao desempenho medido de um conjunto específico de equipamentos.
+Assim, a geração útil estimada de 13,51 kWh por dia não garante que o sistema consiga atender à demanda em todos os dias do ano, especialmente durante períodos consecutivos de baixa irradiação.
+
+**Armazenamento e Compatibilidade Elétrica**
+A capacidade nominal de 20,48 kWh das baterias foi estimada a partir de quatro equipamentos de 5,12 kWh. Entretanto, os percentuais de profundidade de descarga de 80% e eficiência de saída de 95% foram definidos como premissas, sem avaliação prática do conjunto.
+A energia efetivamente disponível dependerá das características das baterias, da temperatura, das condições de operação e da eficiência dos equipamentos de conversão.
+Também não foi selecionado um modelo comercial específico para o conjunto de conversão e controle. Portanto, ainda seria necessário verificar a compatibilidade entre painéis, baterias, equipamentos de controle e luminárias, considerando tensões, correntes e demais requisitos técnicos.
+A área disponível para instalação dos painéis, as estruturas de suporte e a autonomia necessária durante períodos prolongados de baixa geração também dependeriam de avaliação local.
+
+**Custos e Viabilidade Econômica**
+Os preços comerciais utilizados representam valores de referência consultados em novembro de 2026, sujeitos a alterações conforme fornecedor, disponibilidade, quantidade adquirida e condições de pagamento.
+O preço das luminárias LED foi estimado a partir de equipamentos semelhantes e de um registro de preços públicos, sem obtenção de cotação exata para a configuração completa do modelo REEME selecionado.
+Além disso, o painel solar de 650 W utilizado como referência estava indisponível em estoque na consulta realizada.
+Os valores atribuídos às estruturas, aos equipamentos de conversão e controle, às instalações e às reservas mensais de manutenção foram estabelecidos como premissas orçamentárias, sem levantamento detalhado de materiais ou cotações profissionais.
+A análise também não contempla tributos, bandeiras tarifárias, outros encargos adicionais, grandes reparos ou substituições futuras de equipamentos, especialmente baterias e inversores.
+Na alternativa solar isolada da rede elétrica, o custo nulo de compra de energia representa apenas a ausência de fornecimento pela distribuidora. Isso não significa ausência de consumo energético nem garantia de funcionamento contínuo em condições desfavoráveis.
+
+**Alcance dos Resultados**
+As limitações identificadas não impedem a comparação preliminar das alternativas, mas devem ser consideradas na interpretação dos resultados.
+O estudo permite estimar diferenças de consumo, custos e necessidades energéticas sob condições padronizadas. Entretanto, não comprova, por si só, a viabilidade técnica, luminotécnica ou econômica de uma implantação real.
+Para uma eventual execução, seriam necessários levantamentos locais, dimensionamento elétrico e luminotécnico, confirmação da compatibilidade dos componentes e elaboração de um orçamento detalhado.
+
 
 ## 6. Relação com os Cálculos Energéticos
 
