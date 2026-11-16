@@ -139,7 +139,24 @@ Portanto, a confirmação da viabilidade técnica dependeria de levantamentos lo
 
 ## 5. Impactos Ambientais
 
-[Comparar os possíveis impactos ambientais das alternativas, considerando redução do consumo da rede elétrica, utilização de energia renovável e descarte dos equipamentos.]
+A substituição da iluminação convencional por tecnologias LED pode contribuir para a redução dos impactos ambientais associados ao consumo de energia elétrica da praça comunitária. Entretanto, as alternativas apresentam diferenças quanto à fonte de energia utilizada e aos equipamentos necessários.
+
+**Alternativa 1 — Iluminação LED Conectada à Rede Elétrica**
+A primeira alternativa apresenta uma redução estimada de 40,48% no consumo energético da iluminação em comparação com o sistema convencional, diminuindo a quantidade de eletricidade adquirida da rede de distribuição.
+Essa redução contribui para o uso mais eficiente da energia elétrica e pode diminuir os impactos ambientais associados à sua geração e distribuição.
+Entretanto, a alternativa continuará dependendo da rede elétrica. Além disso, a substituição das luminárias convencionais exigirá o descarte ambientalmente adequado das lâmpadas e dos componentes retirados, enquanto as novas luminárias LED também deverão receber destinação apropriada ao final de sua vida útil.
+
+**Alternativa 2 — Iluminação LED Solar Fotovoltaica**
+A segunda alternativa apresenta a mesma redução de 40,48% no consumo energético da iluminação, porém utiliza energia solar fotovoltaica para alimentar as luminárias.
+Nas condições simuladas, o sistema poderá eliminar a compra de eletricidade da rede, aproveitando uma fonte renovável de energia. Isso poderá reduzir os impactos ambientais associados ao fornecimento de eletricidade pela distribuidora.
+Entretanto, a fabricação dos painéis solares, das baterias e dos equipamentos eletrônicos envolve consumo de materiais e energia, além de gerar impactos ambientais. Ao final da vida útil, esses componentes deverão receber destinação adequada, especialmente as baterias, que exigem procedimentos específicos de gerenciamento e reciclagem.
+
+**Comparação dos Impactos Ambientais**
+As duas alternativas contribuem para a eficiência energética ao reduzir o consumo das luminárias em relação ao sistema convencional.
+A iluminação LED conectada à rede apresenta a vantagem de exigir menos equipamentos adicionais, enquanto a alternativa solar permite o aproveitamento de energia renovável e a redução da dependência da rede elétrica.
+Por outro lado, o sistema fotovoltaico exige painéis, baterias e equipamentos de conversão e controle, cujos impactos de fabricação, manutenção e descarte também devem ser considerados.
+Dessa forma, ambas as alternativas apresentam benefícios ambientais potenciais. Entretanto, como o projeto utiliza um cenário hipotético e não dispõe de dados completos sobre fabricação, transporte, vida útil e descarte dos equipamentos, não será realizada uma Análise de Ciclo de Vida (ACV). Assim, a comparação ambiental será limitada aos impactos e benefícios esperados, sem determinar qual alternativa apresenta menor impacto ambiental total.
+
 
 ## 6. Benefícios e Limitações
 
