@@ -132,4 +132,10 @@ Como o projeto considera uma praça hipotética, os indicadores serão gerados a
 
 ## 6. Limitações dos Indicadores
 
-[Informar as limitações dos resultados, considerando o uso de dados estimados ou simulados e as premissas adotadas.]
+Os indicadores foram definidos com base em dados técnicos consultados e premissas adotadas para uma praça comunitária hipotética. Portanto, os resultados representam estimativas e simulações, não medições reais de consumo, geração de energia ou custos.
+Os cálculos consideram a mesma quantidade de luminárias e o mesmo período de funcionamento nos três cenários. Entretanto, o consumo real poderá variar conforme as características dos equipamentos e as condições de operação.
+Na alternativa solar, os indicadores de redução da compra de eletricidade da rede e participação de energia renovável dependem da capacidade do sistema fotovoltaico de atender integralmente à demanda. Assim, os percentuais de 100% representam condições simuladas, não resultados garantidos.
+Os indicadores financeiros também dependem das tarifas e reservas de manutenção adotadas, sem incluir todos os possíveis custos de reparos e substituições futuras.
+Além disso, os indicadores não representam uma avaliação completa dos impactos ambientais, pois não foram calculadas as emissões de gases de efeito estufa nem realizada uma Análise de Ciclo de Vida dos equipamentos.
+Dessa forma, os resultados permitem comparar preliminarmente as alternativas, mas não substituem medições reais e avaliações técnicas necessárias para uma eventual implantação.
+
