@@ -119,6 +119,7 @@ Segundo a tabela tarifária da Enel, estabelecida pela Resolução Homologatóri
 - Tarifa de Uso do Sistema de Distribuição (TUSD): R$ 0,25983/kWh.
 - Tarifa de Energia (TE): R$ 0,17433/kWh.
 - Tarifa total de referência: R$ 0,43416/kWh.
+
 A soma desses componentes será utilizada para estimar o custo mensal de eletricidade dos sistemas convencional e LED conectados à rede elétrica, sem considerar tributos, bandeiras tarifárias ou outros encargos adicionais.
 
 **Custos de Implantação**
@@ -166,6 +167,7 @@ Para representar os gastos recorrentes, serão adotadas reservas mensais prelimi
 - R$ 30 para o sistema convencional.
 - R$ 20 para a iluminação LED conectada à rede.
 - R$ 120 para o sistema solar fotovoltaico.
+
 Esses valores representam premissas orçamentárias estabelecidas pela equipe para comparação dos cenários, não preços obtidos em contratos reais de manutenção.
 A menor reserva prevista para a alternativa LED considera a expectativa de menor necessidade de substituições de componentes em relação ao sistema convencional. Já a reserva mais elevada para o sistema solar considera a existência de equipamentos adicionais que exigem inspeções e cuidados, como painéis, baterias, conexões e equipamentos de conversão e controle.
 As reservas não incluem grandes reparos ou substituições futuras de equipamentos, especialmente baterias e inversores, cujos custos deverão ser reconhecidos como limitações da estimativa.
