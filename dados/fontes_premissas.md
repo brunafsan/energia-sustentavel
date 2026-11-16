@@ -109,7 +109,74 @@ Também seria necessário avaliar a eficiência dos equipamentos de conversão e
 
 ### 3.5. Custos e Tarifas
 
-[Registrar os valores utilizados para estimar os custos de implantação, operação e manutenção, incluindo a tarifa de energia elétrica.]
+Para estimar os custos das alternativas de iluminação, serão considerados os investimentos necessários para implantação, os gastos mensais de energia elétrica e as despesas previstas com manutenção.
+A análise utilizará tarifas oficiais, preços comerciais de referência e premissas orçamentárias adotadas pela equipe. Como o projeto considera uma praça hipotética, os valores representam estimativas para comparação dos cenários, não orçamentos definitivos de implantação.
+
+**Tarifa de Energia Elétrica**
+Para estimar os custos de eletricidade, será utilizada como referência a tarifa de iluminação pública B4a da Enel Distribuição São Paulo, concessionária responsável pelo fornecimento de energia elétrica no município de Osasco.
+A escolha dessa classificação considera que a praça hipotética representa um espaço público municipal, com sistema de iluminação de responsabilidade do poder público e alimentado em baixa tensão pela rede de distribuição.
+Segundo a tabela tarifária da Enel, estabelecida pela Resolução Homologatória ANEEL nº 3.596/2026, válida a partir de 4 de julho de 2026, a tarifa B4a apresenta os seguintes valores:
+- Tarifa de Uso do Sistema de Distribuição (TUSD): R$ 0,25983/kWh.
+- Tarifa de Energia (TE): R$ 0,17433/kWh.
+- Tarifa total de referência: R$ 0,43416/kWh.
+A soma desses componentes será utilizada para estimar o custo mensal de eletricidade dos sistemas convencional e LED conectados à rede elétrica, sem considerar tributos, bandeiras tarifárias ou outros encargos adicionais.
+
+**Custos de Implantação**
+Para a estimativa de implantação, será considerado que a praça já possui 10 pontos de iluminação, postes e infraestrutura elétrica básica. Assim, os custos serão direcionados à substituição ou adaptação dos equipamentos necessários em cada alternativa.
+No sistema convencional, não será considerado investimento inicial, pois ele representa a situação existente utilizada como referência para a comparação.
+
+**Alternativa 1: Iluminação LED conectada à rede elétrica**
+Para a substituição das luminárias convencionais, será adotado um custo estimado de R$ 1.000 por luminária LED de 100 W, totalizando R$ 10.000 para os 10 pontos de iluminação.
+A escolha desse valor foi fundamentada em referências de preços de equipamentos semelhantes à luminária REEME selecionada para a análise energética.
+Como primeira referência, foi consultada a Ata de Registro de Preços nº 54/2026 da Prefeitura de Seringueiras (RO), publicada no Diário Oficial dos Municípios de Rondônia em 27 de outubro de 2026. O documento apresenta o valor unitário de R$ 904,83 para uma luminária REEME da linha LD-7P/100, em uma contratação que prevê 120 unidades, sem identificar a configuração completa do modelo.
+Também foi consultado o preço comercial de R$ 994,48 de uma luminária pública ornamental LED de 100 W, temperatura de cor de 3.000 K, proteção IP66 e eficiência luminosa de 140 lm/W, disponibilizada pela Excelência Luminárias.
+Com base nessas referências, foi adotado o valor arredondado de R$ 1.000 por unidade como premissa orçamentária, considerando uma margem em relação aos preços pesquisados.
+A estimativa não representa uma cotação exata da luminária REEME LD-7P-100-3000-140. Os preços podem variar conforme o fornecedor, a quantidade adquirida, as características específicas do equipamento e as condições comerciais.
+Também será considerada uma despesa estimada de R$ 2.500 com mão de obra e adequações elétricas. Esse valor representa uma premissa orçamentária equivalente a R$ 250 por ponto de iluminação, considerando o aproveitamento da infraestrutura existente.
+Dessa forma, o investimento inicial estimado para a alternativa LED será de R$ 12.500.
+
+**Alternativa 2: Iluminação LED alimentada por energia solar fotovoltaica**
+Para a alternativa solar, serão consideradas as mesmas 10 luminárias LED de 100 W, além de um conjunto fotovoltaico de 6,5 kWp, baterias para armazenamento e equipamentos necessários ao controle e à conversão de energia.
+O orçamento preliminar utilizará os seguintes valores:
+
+**TABELA AQUI**
+
+Os preços dos painéis solares e das baterias foram obtidos em páginas comerciais consultadas em novembro de 2026. Esses valores representam referências de mercado e podem variar conforme a disponibilidade, as condições de pagamento e o fornecedor.
+O painel solar Canadian de 650 W utilizado como referência estava anunciado por R$ 739,00, mas indisponível em estoque na consulta realizada. Por isso, seu preço será utilizado apenas como referência de orçamento, sem representar uma oferta de fornecimento imediato.
+Os valores de R$ 6.000 para o conjunto de conversão e controle de energia, R$ 6.000 para estruturas, cabeamento e proteções e R$ 5.000 para instalação e adequações foram definidos como premissas orçamentárias da equipe.
+Para o conjunto de conversão e controle, a estimativa de R$ 6.000 busca representar os custos dos equipamentos necessários ao gerenciamento da geração fotovoltaica, ao carregamento das baterias e ao fornecimento de energia às luminárias.
+A escolha de não definir um modelo comercial específico considera o caráter conceitual do projeto. O conjunto deverá ser capaz de atender à demanda simultânea de 1 kW das luminárias e permitir a utilização dos 6,5 kWp de painéis solares e das baterias previstas, mediante dimensionamento compatível.
+O valor adotado não corresponde à cotação de um equipamento específico e poderá variar conforme a configuração e as características técnicas necessárias para uma implantação real.
+As demais estimativas orçamentárias buscam representar as despesas de montagem, conexão, proteção e instalação do sistema, incluindo as luminárias. Entretanto, não foram obtidas por meio de cotações de serviços ou levantamento detalhado de materiais.
+A escolha das quantidades foi fundamentada no pré-dimensionamento energético apresentado na seção 3.4. Os dez painéis de 650 W totalizam 6,5 kWp, enquanto as quatro baterias de 5,12 kWh oferecem capacidade nominal de 20,48 kWh.
+A compatibilidade elétrica entre os componentes, incluindo tensões, correntes, equipamentos de controle e eficiência de conversão, dependeria de verificação técnica antes de uma eventual implantação.
+
+**Custos de Operação**
+Os custos mensais de eletricidade serão estimados considerando a potência dos equipamentos, a quantidade de luminárias, o funcionamento de 343 horas mensais e a tarifa B4a adotada.
+No sistema convencional, será considerada uma potência de 150 W por lâmpada, acrescida de 18 W de perdas estimadas do reator, totalizando 168 W por ponto de iluminação.
+O valor de 18 W tem como referência a perda máxima declarada de um reator GOODLUX, modelo SO150EAP26, destinado a lâmpadas de vapor de sódio de 150 W e registrado no Inmetro sob o nº 002951/2023.
+Sua utilização representa uma premissa técnica para a simulação, não uma medição do reator da luminária REPUME selecionada. A estimativa considera que essas perdas não estejam incluídas na potência nominal de 150 W adotada para a lâmpada.
+Com 10 pontos de iluminação, o consumo mensal estimado do sistema convencional será de 576,24 kWh, correspondente a aproximadamente R$ 250,18 em eletricidade.
+Na alternativa LED conectada à rede, serão consideradas 10 luminárias de 100 W, resultando em consumo mensal de 343 kWh e custo estimado de R$ 148,92.
+Para a alternativa solar fotovoltaica isolada, será considerado custo nulo de compra de eletricidade da rede, desde que o sistema consiga atender integralmente à demanda energética nas condições simuladas.
+Essa condição não significa ausência de consumo elétrico ou de despesas operacionais, pois a energia continuará sendo utilizada pelas luminárias e o sistema exigirá manutenção.
+
+**Custos de Manutenção**
+Para representar os gastos recorrentes, serão adotadas reservas mensais preliminares de:
+- R$ 30 para o sistema convencional.
+- R$ 20 para a iluminação LED conectada à rede.
+- R$ 120 para o sistema solar fotovoltaico.
+Esses valores representam premissas orçamentárias estabelecidas pela equipe para comparação dos cenários, não preços obtidos em contratos reais de manutenção.
+A menor reserva prevista para a alternativa LED considera a expectativa de menor necessidade de substituições de componentes em relação ao sistema convencional. Já a reserva mais elevada para o sistema solar considera a existência de equipamentos adicionais que exigem inspeções e cuidados, como painéis, baterias, conexões e equipamentos de conversão e controle.
+As reservas não incluem grandes reparos ou substituições futuras de equipamentos, especialmente baterias e inversores, cujos custos deverão ser reconhecidos como limitações da estimativa.
+
+**Considerações sobre os Custos**
+Os valores apresentados constituem estimativas preliminares para avaliar as alternativas de iluminação da praça hipotética.
+Os preços comerciais poderão variar ao longo do tempo, e as premissas de instalação e manutenção não substituem cotações profissionais.
+A análise econômica completa será desenvolvida na comparação das alternativas, considerando os investimentos iniciais, os custos recorrentes, os benefícios energéticos e as limitações de cada solução.
+A redução do consumo de energia da rede não será considerada, isoladamente, como comprovação de maior viabilidade econômica, especialmente na alternativa solar, que exige investimento inicial mais elevado.
+
+
 
 ## 4. Justificativa das Premissas
 
