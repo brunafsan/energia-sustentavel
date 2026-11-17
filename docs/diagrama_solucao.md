@@ -20,7 +20,14 @@ As duas alternativas LED apresentam o mesmo consumo de iluminação, diferencian
 
 ### 2.2. Equipamentos Consumidores
 
-[Descrever as luminárias e os demais equipamentos que necessitam de energia elétrica.]
+O projeto considera os seguintes equipamentos consumidores de energia elétrica:
+- Sistema convencional: 10 luminárias de vapor de sódio de 150 W, com perdas estimadas de 18 W por reator, totalizando 168 W por ponto de iluminação.
+- Alternativa 1 — LED na rede: 10 luminárias LED de 100 W, totalizando 1.000 W de potência instalada, alimentadas pela rede elétrica.
+- Alternativa 2 — LED solar: as mesmas 10 luminárias LED de 100 W, alimentadas pela energia armazenada nas baterias do sistema fotovoltaico.
+Na alternativa solar, também serão utilizados equipamentos de conversão e controle de energia, necessários ao funcionamento do sistema. Suas possíveis perdas energéticas serão representadas de forma simplificada pelo fator global de aproveitamento de 70% adotado nas premissas.
+
+Os três cenários considerarão o mesmo período de funcionamento de 11 horas e 26 minutos por dia, permitindo comparar o consumo energético das luminárias.
+
 
 ### 2.3. Sensores ou Dados de Consumo
 
