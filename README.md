@@ -128,7 +128,23 @@ O repositório foi organizado em três pastas principais: `dados`, `docs` e `das
 
 ## 11. Como Executar o Projeto
 
-[Informar os requisitos e o passo a passo para executar o dashboard.]
+O dashboard foi desenvolvido em Python e funciona por meio do terminal, sem necessidade de instalar bibliotecas externas.
+
+Para executar o projeto:
+
+1. Baixe o repositório pelo GitHub, utilizando a opção **Code → Download ZIP**.
+2. Extraia o arquivo ZIP no computador.
+3. Abra a pasta principal do projeto no Visual Studio Code.
+4. Abra o terminal integrado do VS Code.
+5. Execute o seguinte comando:
+
+   `python dashboard/app.py`
+
+O programa carrega os dados do arquivo `dados/consumo_energetico.csv`, utiliza as funções de `dashboard/calculos.py` e apresenta os resultados dos três cenários de iluminação.
+
+A saída inclui o consumo energético, a comparação dos custos, os indicadores de sustentabilidade e os benefícios estimados.
+
+**Requisito:** ter o Python 3 instalado no computador.
 
 ## 12. Resultados Esperados
 
