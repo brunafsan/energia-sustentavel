@@ -45,7 +45,11 @@ Com esses resultados, serão calculados os indicadores de consumo mensal, econom
 
 ### 2.5. Processamento das Informações
 
-[Descrever como o Python realizará os cálculos e organizará as informações para apresentação.]
+O processamento das informações será realizado em Python, utilizando os dados estimados e simulados organizados no arquivo dados/consumo_energetico.csv.
+O arquivo dashboard/calculos.py será responsável por calcular o consumo energético, a economia absoluta e percentual, os custos de operação e a participação de energia solar própria, com base nas premissas adotadas no projeto.
+Os resultados serão organizados e utilizados pelo arquivo dashboard/app.py para apresentar os indicadores, gráficos e tabelas comparativas dos três cenários de iluminação.
+Dessa forma, o Python permitirá transformar os dados da simulação em informações organizadas para análise e visualização no dashboard.
+
 
 ### 2.6. Dashboard
 
