@@ -31,7 +31,10 @@ Os três cenários considerarão o mesmo período de funcionamento de 11 horas e
 
 ### 2.3. Sensores ou Dados de Consumo
 
-[Informar quais sensores ou dados estimados/simulados serão utilizados para acompanhar o consumo energético.]
+O projeto não utilizará sensores físicos, pois o monitoramento energético será realizado por meio de dados estimados e simulados.
+Serão consideradas informações como quantidade de luminárias, potência elétrica, horas de funcionamento, período mensal de utilização e fonte de energia de cada cenário. Também serão utilizadas premissas de geração e armazenamento solar, tarifa de eletricidade e custos de manutenção para calcular os indicadores energéticos e econômicos.
+Os dados serão organizados em arquivos do projeto, incluindo dados/consumo_energetico.csv, e utilizados nos cálculos em Python para estimar o consumo energético e comparar as alternativas de iluminação.
+Dessa forma, o sistema permitirá avaliar os indicadores de desempenho energético sem realizar medições reais ou monitoramento em tempo real.
 
 ### 2.4. Lógica de Monitoramento
 
