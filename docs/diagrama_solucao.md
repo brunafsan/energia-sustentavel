@@ -2,7 +2,10 @@
 
 ## 1. Visão Geral do Sistema
 
-[Apresentar o funcionamento geral da solução de iluminação sustentável para a praça comunitária, explicando como a energia será fornecida e como o sistema será monitorado.]
+O projeto propõe a análise de três cenários de iluminação para uma praça comunitária hipotética de Osasco: sistema convencional, iluminação LED conectada à rede elétrica e iluminação LED alimentada por energia solar fotovoltaica.
+Nos dois primeiros cenários, a energia será fornecida pela rede de distribuição. Na alternativa solar, os painéis fotovoltaicos gerarão energia durante o dia, que será armazenada em baterias para alimentar as luminárias durante a noite.
+O acompanhamento do desempenho energético será realizado por meio de dados estimados e simulados, sem utilização de sensores físicos. Esses dados serão processados em Python para calcular o consumo de energia, a economia estimada, os custos de operação e a participação de energia solar própria.
+Os resultados serão apresentados no Neighborhood Action Dashboard, permitindo comparar os três cenários e visualizar os benefícios e as limitações de cada alternativa.
 
 ## 2. Componentes do Sistema
 
