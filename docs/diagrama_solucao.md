@@ -53,7 +53,15 @@ Dessa forma, o Python permitirá transformar os dados da simulação em informa�
 
 ### 2.6. Dashboard
 
-[Explicar quais indicadores e resultados serão apresentados no painel.]
+O Neighborhood Action Dashboard apresentará os resultados da análise energética dos três cenários de iluminação da praça comunitária, permitindo visualizar e comparar o desempenho estimado de cada alternativa.
+O painel contará com quatro indicadores principais:
+- Consumo energético mensal: quantidade de energia elétrica consumida pelas luminárias em cada cenário, em kWh.
+- Economia de energia: redução do consumo em kWh e em percentual, em comparação com o sistema convencional.
+- Redução dos custos de operação: economia mensal estimada, considerando os gastos com eletricidade e as reservas de manutenção.
+- Participação de energia solar própria: percentual da demanda de iluminação atendido pela geração fotovoltaica no cenário simulado.
+O dashboard também apresentará a quantidade de eletricidade comprada da rede, diferenciando-a do consumo total das luminárias.
+Os resultados serão organizados em gráficos, indicadores numéricos e tabelas comparativas, facilitando a identificação das vantagens e limitações de cada alternativa. As informações serão baseadas em estimativas e simulações, não em medições em tempo real.
+
 
 ## 3. Diagrama de Blocos
 
