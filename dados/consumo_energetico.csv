@@ -1,4 +1,4 @@
 cenario,equipamento,quantidade,potencia_w,horas_dia,dias_mes,fonte_energia
-atual,luminaria_convencional,,,,,rede_eletrica
-alternativa_1,luminaria_led,,,,,rede_eletrica
-alternativa_2,luminaria_led_solar,,,,,solar_fotovoltaica
+atual,luminaria_convencional,10,168,11.4333333333,30,rede_eletrica
+alternativa_1,luminaria_led,10,100,11.4333333333,30,rede_eletrica
+alternativa_2,luminaria_led_solar,10,100,11.4333333333,30,solar_fotovoltaica
