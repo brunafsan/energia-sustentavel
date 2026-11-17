@@ -73,7 +73,10 @@ Os resultados serão organizados em gráficos, indicadores numéricos e tabelas 
 
 ## 5. Integração com o Neighborhood Action Dashboard
 
-[Explicar como a solução energética será integrada ao desafio CitizenTech, permitindo visualizar os indicadores e comparar as alternativas.]
+A solução energética será integrada à proposta do Neighborhood Action Dashboard, do desafio CitizenTech, por meio da apresentação de indicadores que auxiliem na análise de melhorias para espaços públicos comunitários.
+Os dados estimados e simulados dos três cenários de iluminação serão processados em Python e apresentados em um painel, permitindo comparar o consumo energético, a economia de energia, os custos de operação e a participação de energia solar própria.
+A visualização será realizada por meio de gráficos, tabelas comparativas e indicadores numéricos, facilitando a identificação das vantagens e limitações de cada alternativa.
+Dessa forma, o dashboard funcionará como uma ferramenta de apoio à análise de soluções energéticas para a praça comunitária hipotética, contribuindo para a avaliação de alternativas mais eficientes e sustentáveis.
 
 ## 6. Limitações da Implementação
 
