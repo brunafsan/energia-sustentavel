@@ -50,15 +50,63 @@ A análise considerará a capacidade estimada de geração de energia, a reduç�
 
 ## 6. Análise Energética
 
-[Resumir os cálculos de consumo e os resultados da comparação entre os cenários.]
+A análise energética foi realizada considerando uma praça comunitária hipotética localizada em Osasco, São Paulo, com 10 pontos de iluminação e funcionamento de 11 horas e 26 minutos por dia, equivalente a 343 horas mensais.
+
+Foram comparados três cenários: iluminação convencional de vapor de sódio, iluminação LED conectada à rede elétrica e iluminação LED alimentada por energia solar fotovoltaica.
+
+O sistema convencional apresenta consumo estimado de 576,24 kWh mensais, enquanto as duas alternativas LED apresentam demanda de 343,00 kWh por mês. A substituição das luminárias convencionais por LED representa uma redução estimada de 233,24 kWh mensais, equivalente a aproximadamente 40,48%.
+
+Na alternativa solar fotovoltaica, foi considerado um sistema de 6,5 kWp, com geração útil estimada de 13,51 kWh por dia e armazenamento em baterias. Nas condições simuladas, a geração estimada é superior à demanda diária das luminárias LED, de aproximadamente 11,43 kWh.
+
+Os resultados são baseados em dados técnicos e premissas adotadas pela equipe, não correspondendo a medições realizadas em uma instalação real.
+
+Os dados utilizados, as fórmulas e os cálculos detalhados estão disponíveis no arquivo `docs/analise_energetica.md`.
 
 ## 7. Indicadores de Sustentabilidade
 
-[Apresentar os principais indicadores utilizados para avaliar as alternativas.]
+O projeto compara três alternativas de iluminação para a praça comunitária, considerando o consumo de energia elétrica, os custos estimados e a utilização de fontes renováveis.
+
+| Critério | Convencional | LED conectado à rede | LED solar fotovoltaico |
+|---|---|---|---|
+| Consumo mensal das luminárias | 576,24 kWh | 343,00 kWh | 343,00 kWh |
+| Energia utilizada | Rede elétrica | Rede elétrica | Solar fotovoltaica |
+| Custo mensal de eletricidade | R$ 250,18 | R$ 148,92 | R$ 0,00* |
+| Investimento inicial estimado | R$ 0,00 | R$ 12.500,00 | R$ 63.030,00 |
+| Reserva mensal de manutenção | R$ 30,00 | R$ 20,00 | R$ 120,00 |
+
+*O custo de eletricidade da alternativa solar considera que o sistema fotovoltaico isolado consiga atender integralmente à demanda nas condições simuladas. Esse valor não representa ausência de consumo energético ou de despesas operacionais.*
+
+A iluminação convencional apresenta o maior consumo de energia elétrica entre os cenários analisados. A alternativa LED conectada à rede reduz a demanda energética em aproximadamente 40,48%, mantendo o fornecimento pela distribuidora.
+
+A alternativa solar apresenta o mesmo consumo das luminárias LED, mas utiliza geração fotovoltaica e armazenamento em baterias para reduzir a dependência da rede elétrica. Entretanto, exige um investimento inicial significativamente maior e apresenta custos adicionais relacionados à manutenção dos componentes.
+
+Dessa forma, a comparação permite avaliar os benefícios e as limitações de cada alternativa, considerando que a redução do consumo de eletricidade da rede não garante, isoladamente, maior viabilidade econômica.
+
+A análise detalhada das alternativas será apresentada no arquivo `docs/comparacao_alternativas.md`.
+
 
 ## 8. Dashboard
 
 [Explicar o funcionamento do dashboard e quais informações serão apresentadas.]
+O projeto utiliza indicadores energéticos, econômicos e de sustentabilidade para avaliar os três cenários de iluminação da praça comunitária.
+
+Os principais indicadores considerados são:
+
+1. **Consumo mensal de energia (kWh):** representa a quantidade de energia necessária para o funcionamento das luminárias. O sistema convencional apresenta consumo estimado de 576,24 kWh por mês, enquanto as alternativas LED apresentam 343,00 kWh.
+
+2. **Economia de energia (%):** indica a redução do consumo em relação ao sistema convencional. A substituição por luminárias LED proporciona uma economia estimada de 40,48%.
+
+3. **Custo mensal de eletricidade (R$):** apresenta os gastos estimados com a energia adquirida da rede elétrica. Os valores são de R$ 250,18 para o sistema convencional, R$ 148,92 para o LED conectado à rede e R$ 0,00 para o sistema solar, desde que a geração e o armazenamento atendam à demanda nas condições simuladas.
+
+4. **Participação de energia renovável (%):** representa a proporção da demanda energética atendida pela geração solar. Na alternativa fotovoltaica, a participação estimada é de 100% nas condições adotadas, enquanto os outros cenários não possuem geração renovável própria considerada no projeto.
+
+5. **Custo operacional mensal (R$):** considera os gastos estimados com eletricidade e a reserva mensal de manutenção. Os valores são de R$ 280,18 para o sistema convencional, R$ 168,92 para o LED conectado à rede e R$ 120,00 para o sistema solar nas condições simuladas.
+
+Esses indicadores permitem visualizar as diferenças entre as alternativas e avaliar os benefícios energéticos, econômicos e ambientais esperados.
+
+Os resultados serão apresentados no dashboard desenvolvido em Python, utilizando os dados do arquivo `dados/consumo_energetico.csv` e as funções implementadas em `dashboard/calculos.py`.
+
+A descrição detalhada dos indicadores está disponível no arquivo `docs/indicadores.md`.
 
 ## 9. Tecnologias Utilizadas
 
@@ -94,8 +142,31 @@ Os benefícios efetivos de cada solução serão avaliados a partir dos cálculo
 
 ## 13. Limitações
 
-[Resumir as principais limitações do projeto e das estimativas utilizadas.]
+O projeto apresenta uma simulação de alternativas de iluminação sustentável para uma praça comunitária hipotética, utilizando dados técnicos e estimativas de consumo, geração de energia e custos.
+
+As principais limitações consideradas são:
+
+- **Dados simulados:** os resultados não foram obtidos por medições em uma praça real.
+- **Condições climáticas:** a geração solar pode variar conforme a época do ano, a nebulosidade e as condições de instalação.
+- **Armazenamento de energia:** a capacidade estimada das baterias não garante o funcionamento contínuo durante vários dias de baixa geração solar.
+- **Custos estimados:** os investimentos e as despesas de manutenção são premissas do projeto e podem diferir dos valores reais de instalação e operação.
+- **Iluminação da praça:** não foi realizado um estudo luminotécnico para confirmar se as alternativas oferecem níveis equivalentes de iluminação.
+- **Manutenção e vida útil:** não foram simuladas todas as substituições futuras de equipamentos, especialmente das baterias do sistema fotovoltaico.
+
+Portanto, os resultados permitem comparar os cenários nas condições estabelecidas, mas não substituem um projeto técnico detalhado para implantação real.
+
+As referências e limitações adicionais estão documentadas em `docs/referencias_limitacoes.md`.
+
 
 ## 14. Referências
 
-[Indicar onde estão disponíveis as referências e fontes consultadas.]
+As informações utilizadas no projeto foram baseadas em referências técnicas sobre iluminação pública, consumo de energia elétrica, sistemas fotovoltaicos e armazenamento em baterias.
+
+Foram consideradas informações de órgãos reguladores, fabricantes de equipamentos e fontes relacionadas à geração de energia solar, incluindo dados da Agência Nacional de Energia Elétrica (ANEEL).
+
+As referências utilizadas para definir a potência das luminárias, o tempo de funcionamento, a tarifa de energia, a geração fotovoltaica e os custos estimados estão organizadas nos seguintes arquivos:
+
+- `dados/fontes_premissas.md` — fontes dos dados e justificativas das premissas adotadas.
+- `docs/referencias_limitacoes.md` — referências técnicas e limitações da análise.
+
+Os resultados apresentados são estimativas baseadas nessas premissas e não representam medições realizadas em uma instalação real.
