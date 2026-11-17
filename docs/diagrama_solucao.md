@@ -38,7 +38,10 @@ Dessa forma, o sistema permitirá avaliar os indicadores de desempenho energéti
 
 ### 2.4. Lógica de Monitoramento
 
-[Explicar como os dados serão utilizados para calcular o consumo, identificar diferenças entre as alternativas e acompanhar os indicadores.]
+A lógica de monitoramento será baseada no processamento dos dados estimados e simulados dos três cenários de iluminação, sem utilização de sensores físicos ou medições em tempo real.
+O sistema utilizará a potência, a quantidade de luminárias e o tempo de funcionamento para calcular o consumo energético mensal. Em seguida, os resultados serão comparados para identificar a economia de energia e a redução dos custos de operação em relação ao sistema convencional.
+Também será considerada a quantidade de eletricidade comprada da rede, diferenciando-a do consumo total das luminárias, especialmente na alternativa solar fotovoltaica.
+Com esses resultados, serão calculados os indicadores de consumo mensal, economia energética, redução de custos e participação de energia solar própria, permitindo acompanhar e comparar o desempenho estimado das alternativas no dashboard.
 
 ### 2.5. Processamento das Informações
 
