@@ -11,7 +11,12 @@ Os resultados serão apresentados no Neighborhood Action Dashboard, permitindo c
 
 ### 2.1. Fonte de Energia
 
-[Identificar as fontes de energia consideradas na solução, como rede elétrica e energia solar fotovoltaica.]
+O projeto considera duas fontes de fornecimento de energia elétrica:
+- Rede elétrica: utilizada no sistema convencional e na alternativa LED conectada à rede, sendo responsável pelo fornecimento de energia durante o período noturno.
+- Energia solar fotovoltaica: utilizada na segunda alternativa, por meio de 10 painéis solares de 650 W, totalizando 6,5 kWp de potência instalada. A energia gerada durante o dia será armazenada em baterias para alimentar as luminárias à noite, sem conexão com a rede elétrica.
+
+As duas alternativas LED apresentam o mesmo consumo de iluminação, diferenciando-se principalmente pela origem da energia utilizada.
+
 
 ### 2.2. Equipamentos Consumidores
 
