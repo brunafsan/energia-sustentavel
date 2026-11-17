@@ -62,7 +62,7 @@ Os resultados são baseados em dados técnicos e premissas adotadas pela equipe,
 
 Os dados utilizados, as fórmulas e os cálculos detalhados estão disponíveis no arquivo `docs/analise_energetica.md`.
 
-## 7. Indicadores de Sustentabilidade
+## 7. Comparação das Alternativas
 
 O projeto compara três alternativas de iluminação para a praça comunitária, considerando o consumo de energia elétrica, os custos estimados e a utilização de fontes renováveis.
 
@@ -87,7 +87,8 @@ A análise detalhada das alternativas será apresentada no arquivo `docs/compara
 
 ## 8. Dashboard
 
-[Explicar o funcionamento do dashboard e quais informações serão apresentadas.]
+O dashboard foi desenvolvido em Python e apresenta os resultados diretamente no terminal. O programa utiliza os dados de consumo energético e as funções de cálculo para comparar os três cenários de iluminação, exibindo informações sobre consumo, economia de energia, custos operacionais, geração solar e viabilidade das alternativas.
+
 O projeto utiliza indicadores energéticos, econômicos e de sustentabilidade para avaliar os três cenários de iluminação da praça comunitária.
 
 Os principais indicadores considerados são:
@@ -148,13 +149,14 @@ A saída inclui o consumo energético, a comparação dos custos, os indicadores
 
 ## 12. Resultados Esperados
 
-Espera-se que o projeto permita identificar alternativas de iluminação mais eficientes e sustentáveis para praças comunitárias, considerando o consumo energético, os custos e os impactos ambientais de cada solução.
+A análise realizada demonstrou que a substituição das luminárias convencionais por modelos LED pode reduzir o consumo energético estimado de 576,24 kWh para 343,00 kWh mensais, representando uma economia de aproximadamente 40,48%.
 
-A utilização de luminárias LED poderá contribuir para a redução do consumo de eletricidade, enquanto a alternativa com energia solar fotovoltaica poderá diminuir a dependência da rede elétrica e ampliar o aproveitamento de fontes renováveis.
+A alternativa solar fotovoltaica apresentou potencial para atender à demanda energética das luminárias LED nas condições simuladas, considerando a geração diária estimada e a capacidade útil das baterias. Entretanto, essa alternativa exige um investimento inicial maior e depende das condições de geração e armazenamento.
 
-Além disso, espera-se que o dashboard facilite a visualização e a comparação dos indicadores energéticos, auxiliando na avaliação das alternativas e na tomada de decisões relacionadas à melhoria da infraestrutura comunitária.
+O dashboard desenvolvido em Python permite apresentar e comparar os resultados energéticos e econômicos dos três cenários, facilitando a identificação dos benefícios e das limitações de cada solução.
 
-Os benefícios efetivos de cada solução serão avaliados a partir dos cálculos e das estimativas desenvolvidos ao longo do projeto.
+Os resultados indicam possibilidades de melhoria da eficiência energética e de aproveitamento de fontes renováveis em espaços comunitários. Entretanto, a implantação real dependeria de estudos técnicos complementares e da avaliação das condições específicas do local.
+
 
 ## 13. Limitações
 
