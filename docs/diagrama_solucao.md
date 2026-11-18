@@ -60,8 +60,7 @@ O painel contará com quatro indicadores principais:
 - Economia de energia: redução do consumo em kWh e em percentual, em comparação com o sistema convencional.
 - Redução dos custos de operação: economia mensal estimada, considerando os gastos com eletricidade e as reservas de manutenção.
 - Participação de energia solar própria: percentual da demanda de iluminação atendido pela geração fotovoltaica no cenário simulado.
-O dashboard também apresentará a quantidade de eletricidade comprada da rede, diferenciando-a do consumo total das luminárias.
-Os resultados serão organizados em gráficos, indicadores numéricos e tabelas comparativas, facilitando a identificação das vantagens e limitações de cada alternativa. As informações serão baseadas em estimativas e simulações, não em medições em tempo real.
+O dashboard também apresentará a quantidade de eletricidade comprada da rede, diferenciando-a do consumo total das luminárias. Os resultados serão organizados em seções textuais com indicadores numéricos e comparações entre os cenários, facilitando a identificação das vantagens e limitações de cada alternativa. As informações serão baseadas em estimativas e simulações, não em medições em tempo real.
 
 
 ## 3. Diagrama de Blocos
