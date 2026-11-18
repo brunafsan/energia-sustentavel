@@ -133,11 +133,11 @@ Os resultados serão calculados com base nas premissas do projeto, distinguindo 
 
 ## 5. Integração com os Cálculos Energéticos
 
-Os indicadores serão calculados em Python, utilizando os dados e as premissas registrados no arquivo fontes_premissas.md e organizados em consumo_energetico.csv.
-O arquivo dashboard/calculos.py será responsável pelo processamento dos valores, utilizando funções para calcular o consumo mensal de energia, a economia energética absoluta e percentual, os custos de eletricidade, a redução dos custos de operação e a participação de energia renovável.
-Os resultados serão utilizados pelo arquivo dashboard/app.py para alimentar os gráficos, cartões de indicadores e tabelas comparativas do dashboard.
-A integração permitirá apresentar os três cenários de iluminação de forma padronizada, distinguindo o consumo energético das luminárias da eletricidade comprada da rede.
-Como o projeto considera uma praça hipotética, os indicadores serão gerados a partir de dados simulados, sem utilização de medições em tempo real.
+Os indicadores serão calculados em Python, utilizando os dados e as premissas registrados no arquivo dados/fontes_premissas.md e organizados em dados/consumo_energetico.csv. O arquivo dashboard/calculos.py será responsável pelo processamento dos valores, utilizando funções para calcular o consumo mensal de energia, a economia energética absoluta e percentual, os custos de eletricidade, a redução dos custos de operação e a participação de energia renovável.
+
+Os resultados serão utilizados pelo arquivo dashboard/app.py para apresentar os indicadores e as comparações dos três cenários de iluminação em uma interface textual executada no terminal. As informações serão organizadas em seções com valores numéricos, permitindo comparar o consumo energético, a economia estimada, os custos operacionais e a participação de energia solar própria.
+
+A integração permitirá apresentar os três cenários de iluminação de forma padronizada, distinguindo o consumo energético das luminárias da eletricidade comprada da rede elétrica. Como o projeto considera uma praça comunitária hipotética, os indicadores serão gerados a partir de dados simulados, sem utilização de medições em tempo real.
 
 ## 6. Limitações dos Indicadores
 
