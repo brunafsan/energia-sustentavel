@@ -69,7 +69,19 @@ Os resultados serão organizados em gráficos, indicadores numéricos e tabelas 
 
 ## 4. Descrição do Fluxo de Funcionamento
 
-[Explicar, na sequência apresentada no diagrama, como os componentes se relacionam e como os dados chegam ao dashboard.]
+O funcionamento da solução está dividido em duas etapas: o fornecimento de energia aos sistemas de iluminação e o processamento dos dados simulados para apresentação no dashboard.
+
+**- Fornecimento de energia:** no sistema convencional e na alternativa LED conectada à rede, a eletricidade será fornecida pela distribuidora, alimentando separadamente as luminárias de cada cenário. Na alternativa solar, os 10 painéis fotovoltaicos gerarão energia durante o dia, que será gerenciada pelo conjunto de conversão e controle e armazenada nas quatro baterias. Durante a noite, a energia armazenada será utilizada para alimentar as luminárias LED.
+
+**- Dados simulados:** as características dos três sistemas serão representadas por dados estimados e simulados, sem utilização de sensores físicos. Os dados de consumo serão organizados em dados/consumo_energetico.csv, enquanto dados/fontes_premissas.md documentará as fontes e premissas utilizadas nos cálculos.
+
+**- Lógica de monitoramento:** os dados serão utilizados para comparar os três cenários de iluminação, considerando o consumo energético, a eletricidade comprada da rede, a economia estimada e os custos de operação.
+
+**- Processamento das informações:** o arquivo `dashboard/calculos.py` realizará os cálculos em Python, utilizando os dados e as premissas do projeto para determinar os indicadores energéticos e econômicos.
+
+**- Apresentação no dashboard:** os resultados serão apresentados pelo arquivo `dashboard/app.py`, por meio de gráficos, tabelas comparativas e indicadores de consumo mensal, economia de energia, redução dos custos de operação e participação de energia solar própria.
+
+Dessa forma, o sistema permitirá comparar o desempenho estimado das alternativas de iluminação, sem monitoramento em tempo real. Os resultados da alternativa solar estarão condicionados às premissas de geração e armazenamento adotadas na simulação.
 
 ## 5. Integração com o Neighborhood Action Dashboard
 
