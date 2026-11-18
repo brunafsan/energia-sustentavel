@@ -1,3 +1,4 @@
+<img width="1448" height="1086" alt="Diagrama de Iluminação Solar Bidirecional (1)" src="https://github.com/user-attachments/assets/76190100-e92b-4dc6-aff3-1a8bf9c43222" /><img width="1448" height="1086" alt="Diagrama de Iluminação Solar Bidirecional (1)" src="https://github.com/user-attachments/assets/6856a75a-24e6-4601-9f13-04ed50d9e1ec" />
 # Diagrama de Funcionamento da Solução
 
 ## 1. Visão Geral do Sistema
@@ -65,7 +66,8 @@ Os resultados serão organizados em gráficos, indicadores numéricos e tabelas 
 
 ## 3. Diagrama de Blocos
 
-[Inserir aqui o diagrama de blocos que represente as conexões entre a fonte de energia, os equipamentos consumidores, os dados de consumo, o processamento e o dashboard.]
+<img width="1448" height="1086" alt="Diagrama de Iluminação Solar Bidirecional (1)" src="https://github.com/user-attachments/assets/321fc0f7-d0bb-4716-a876-f6058228a7bd" />
+
 
 ## 4. Descrição do Fluxo de Funcionamento
 
