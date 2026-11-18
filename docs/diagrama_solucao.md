@@ -91,10 +91,11 @@ A visualização será realizada por meio de indicadores numéricos e comparaç�
 
 ## 6. Limitações da Implementação
 
-O projeto será desenvolvido como uma simulação computacional, sem instalação física dos sistemas de iluminação ou utilização de sensores reais.
-As luminárias, os painéis fotovoltaicos, as baterias e os equipamentos de conversão e controle serão representados conceitualmente, com base nas características técnicas e premissas registradas em dados/fontes_premissas.md. Não serão realizados testes físicos de geração solar, armazenamento ou distribuição de energia.
-A implementação em software será realizada em Python, utilizando os dados estimados e simulados organizados em dados/consumo_energetico.csv. O arquivo dashboard/calculos.py será responsável pelos cálculos de consumo energético, economia de energia, custos de operação e indicadores de desempenho dos três cenários.
-Os resultados serão apresentados por meio de gráficos, tabelas e indicadores numéricos no painel desenvolvido em dashboard/app.py, sem monitoramento em tempo real ou comunicação com equipamentos físicos.
-Dessa forma, a solução permitirá realizar uma comparação energética e econômica preliminar, mas não substituirá medições reais, estudos técnicos ou dimensionamentos necessários para uma eventual implantação física.
+O projeto será desenvolvido como uma simulação computacional, sem instalação física dos sistemas de iluminação ou utilização de sensores reais. As luminárias, os painéis fotovoltaicos, as baterias e os equipamentos de conversão e controle serão representados conceitualmente, com base nas características técnicas e premissas registradas em dados/fontes_premissas.md.
 
+Não serão realizados testes físicos de geração solar, armazenamento ou distribuição de energia. A implementação em software será realizada em Python, utilizando os dados estimados e simulados organizados em dados/consumo_energetico.csv. O arquivo dashboard/calculos.py será responsável pelos cálculos de consumo energético, economia de energia, custos de operação e indicadores de desempenho dos três cenários.
+
+Os resultados serão apresentados pelo arquivo dashboard/app.py, por meio de uma interface textual executada no terminal, contendo indicadores numéricos e comparações entre as alternativas de iluminação, sem monitoramento em tempo real ou comunicação com equipamentos físicos. A implementação não contempla gráficos interativos ou uma interface visual web.
+
+Dessa forma, a solução permitirá realizar uma comparação energética e econômica preliminar, mas não substituirá medições reais, estudos técnicos ou dimensionamentos necessários para uma eventual implantação física.
   
