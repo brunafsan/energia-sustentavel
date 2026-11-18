@@ -119,14 +119,16 @@ A participação renovável refere-se exclusivamente à geração solar própria
 
 ## 4. Apresentação dos Indicadores no Dashboard
 
-Os indicadores serão apresentados em um dashboard desenvolvido em Python, utilizando gráficos, tabelas e cartões com os principais resultados da simulação.
-O painel permitirá comparar os três cenários de iluminação por meio dos seguintes recursos:
-- Gráfico de barras: comparação do consumo mensal de energia e da eletricidade comprada da rede.
-- Cartões de indicadores: apresentação da economia energética percentual, da redução de custos mensais e da participação de energia solar própria.
-- Tabela comparativa: visualização consolidada dos resultados dos três sistemas.
+Os indicadores serão apresentados por meio de um dashboard desenvolvido em Python, com execução no terminal. O programa permitirá visualizar e comparar os resultados estimados dos três cenários de iluminação, organizando as informações em seções textuais com valores numéricos.
 
-Os resultados serão calculados com base nas premissas do projeto, distinguindo o consumo das luminárias da energia comprada da rede elétrica.
-Como a praça é hipotética, o dashboard apresentará **dados simulados, não medições em tempo real**. A participação solar de 100% será identificada como uma estimativa condicionada ao atendimento integral da demanda.
+O dashboard apresentará os seguintes recursos:
+
+- **Consumo de energia:** apresentação do consumo diário e mensal das luminárias em cada cenário.
+- **Comparação das alternativas:** apresentação da economia energética, dos custos de eletricidade, das reservas de manutenção, dos custos operacionais e dos investimentos estimados.
+- **Indicadores de sustentabilidade:** apresentação do consumo energético, da redução percentual do consumo, da eletricidade comprada da rede e da participação de energia solar própria.
+- **Benefícios e viabilidade:** apresentação da economia operacional, do retorno simples estimado e das principais vantagens e limitações das alternativas.
+
+Os resultados serão calculados com base nas premissas do projeto, distinguindo o consumo das luminárias da eletricidade comprada da rede elétrica. Como a praça é hipotética, o dashboard apresentará dados simulados, não medições em tempo real. A participação solar de 100% será identificada como uma estimativa condicionada ao atendimento integral da demanda.
 
 
 ## 5. Integração com os Cálculos Energéticos
