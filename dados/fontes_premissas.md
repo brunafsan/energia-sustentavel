@@ -307,4 +307,16 @@ Para uma eventual execução, seriam necessários levantamentos locais, dimensio
 
 ## 5. Relação com os Cálculos Energéticos
 
-[Explicar como os dados registrados neste documento serão utilizados nos arquivos de análise energética, comparação das alternativas e no dashboard.]
+Os dados e as premissas apresentados neste documento serão utilizados como base para os cálculos energéticos e econômicos dos três cenários de iluminação da praça comunitária hipotética de Osasco.
+
+As informações de potência, quantidade de luminárias e tempo de funcionamento serão utilizadas no arquivo `docs/analise_energetica.md` para determinar o consumo de energia. Considerando 10 pontos de iluminação e 343 horas mensais de funcionamento, o consumo estimado será de 576,24 kWh/mês para o sistema convencional e de 343 kWh/mês para cada uma das alternativas LED.
+
+Na comparação das alternativas, documentada em `docs/comparacao_alternativas.md`, serão utilizados os resultados de consumo, as condições de geração fotovoltaica, a tarifa de eletricidade e as estimativas de implantação e manutenção para avaliar a economia energética, os custos e a viabilidade de cada solução.
+
+Os dados necessários ao processamento serão organizados em `dados/consumo_energetico.csv`, enquanto `dados/fontes_premissas.md` permanecerá como referência documental das fontes consultadas e das premissas adotadas.
+
+O arquivo `dashboard/calculos.py` será responsável por implementar os cálculos em Python, e os resultados serão apresentados por meio do arquivo `dashboard/app.py`, conforme os indicadores definidos em `docs/indicadores.md`.
+
+A análise distinguirá o consumo energético das luminárias da eletricidade comprada da rede elétrica. Na alternativa solar, as luminárias continuarão consumindo 343 kWh/mês, embora a compra de energia da distribuidora seja considerada nula no cenário simulado, desde que a geração e o armazenamento fotovoltaicos atendam integralmente à demanda.
+
+Dessa forma, os dados, os cálculos e os indicadores utilizarão as mesmas premissas, garantindo coerência entre a documentação técnica, a comparação das alternativas e os resultados previstos para o dashboard.
