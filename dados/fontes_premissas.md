@@ -7,18 +7,6 @@ Este documento tem como objetivo apresentar as fontes de dados e as premissas ut
 Como o estudo considera uma praça hipotética, serão utilizados dados de fontes confiáveis e estimativas justificadas para definir as características dos sistemas de iluminação convencional, LED e solar fotovoltaica.
 Essas informações servirão como base para os cálculos de consumo de energia, custos de funcionamento e comparação das alternativas, garantindo maior transparência e coerência aos resultados apresentados no dashboard.
 
-## 2. Fontes de Dados
-
-[Apresentar as fontes utilizadas para obter informações sobre equipamentos, consumo energético, energia solar e custos.]
-
-| Informação | Fonte consultada | Link ou referência | Data de acesso |
-|---|---|---|---|
-| Potência das luminárias | [Preencher] | [Preencher] | [Preencher] |
-| Tempo de funcionamento | [Preencher] | [Preencher] | [Preencher] |
-| Tarifa de energia elétrica | [Preencher] | [Preencher] | [Preencher] |
-| Custos dos equipamentos | [Preencher] | [Preencher] | [Preencher] |
-| Geração de energia solar | [Preencher] | [Preencher] | [Preencher] |
-
 ## 3. Premissas Adotadas
 
 ### 3.1. Características da Praça
@@ -29,6 +17,11 @@ Essas iniciativas demonstram a aplicação de tecnologias mais eficientes no mun
 Como premissa inicial, a praça contará com 10 pontos de iluminação, cada um equipado com uma luminária convencional alimentada pela rede elétrica. Essa quantidade foi adotada para fins de simulação, permitindo estimar o consumo energético e comparar as alternativas propostas.
 Nos três cenários analisados, será mantida a mesma quantidade de pontos de iluminação, buscando atender a necessidades equivalentes de iluminação.
 A quantidade de energia elétrica consumida será estimada em kWh, considerando a potência das luminárias, a quantidade de equipamentos e o tempo de funcionamento. Os resultados serão apresentados na análise energética, com base nas premissas adotadas e nas informações técnicas consultadas.
+
+**fontes:**
+https://osasco.sp.gov.br/osasco-avanca-em-modernizacao-do-sistema-de-iluminacao-publica/
+
+https://www.peeenel.com.br/projeto/599
 
 ### 3.2. Funcionamento da Iluminação
 
