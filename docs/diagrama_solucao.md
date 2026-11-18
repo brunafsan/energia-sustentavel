@@ -80,9 +80,7 @@ O funcionamento da solução está dividido em duas etapas: o fornecimento de en
 
 **- Processamento das informações:** o arquivo `dashboard/calculos.py` realizará os cálculos em Python, utilizando os dados e as premissas do projeto para determinar os indicadores energéticos e econômicos.
 
-**- Apresentação no dashboard:** os resultados serão apresentados pelo arquivo `dashboard/app.py`, por meio de gráficos, tabelas comparativas e indicadores de consumo mensal, economia de energia, redução dos custos de operação e participação de energia solar própria.
-
-Dessa forma, o sistema permitirá comparar o desempenho estimado das alternativas de iluminação, sem monitoramento em tempo real. Os resultados da alternativa solar estarão condicionados às premissas de geração e armazenamento adotadas na simulação.
+**- Apresentação no dashboard:** os resultados serão apresentados pelo arquivo dashboard/app.py, por meio de uma interface textual no terminal, contendo indicadores de consumo mensal, economia de energia, redução dos custos de operação, participação de energia solar própria e comparações entre as alternativas.
 
 ## 5. Integração com o Neighborhood Action Dashboard
 
