@@ -7,9 +7,9 @@ Este documento tem como objetivo apresentar as fontes de dados e as premissas ut
 Como o estudo considera uma praça hipotética, serão utilizados dados de fontes confiáveis e estimativas justificadas para definir as características dos sistemas de iluminação convencional, LED e solar fotovoltaica.
 Essas informações servirão como base para os cálculos de consumo de energia, custos de funcionamento e comparação das alternativas, garantindo maior transparência e coerência aos resultados apresentados no dashboard.
 
-## 3. Premissas Adotadas
+## 2. Premissas Adotadas
 
-### 3.1. Características da Praça
+### 2.1. Características da Praça
 
 Para a realização do estudo, será considerada uma praça comunitária hipotética, localizada em uma região residencial urbana do município de Osasco, em São Paulo, e utilizada pela população para atividades de lazer e convivência.
 A escolha de Osasco como município de referência foi fundamentada na disponibilidade de dados oficiais aplicáveis à análise energética e na existência de iniciativas reais de modernização da iluminação pública. Segundo a Prefeitura de Osasco (2021), o programa Cidade Iluminada já havia instalado 1.009 luminárias decorativas LED em praças, parques e áreas externas de prédios públicos até a data da publicação. Além disso, o município foi beneficiado por um projeto de eficiência energética da Enel voltado à substituição de sistemas convencionais de iluminação pública por luminárias LED.
@@ -23,7 +23,7 @@ https://osasco.sp.gov.br/osasco-avanca-em-modernizacao-do-sistema-de-iluminacao-
 
 https://www.peeenel.com.br/projeto/599
 
-### 3.2. Funcionamento da Iluminação
+### 2.2. Funcionamento da Iluminação
 
 Para a análise energética, será considerado que o sistema de iluminação da praça funcionará durante o período noturno, com acionamento ao anoitecer e desligamento ao amanhecer.
 De acordo com a Resolução Homologatória nº 2.590/2019 da Agência Nacional de Energia Elétrica (ANEEL), o município de Osasco possui um tempo médio diário de referência de 11 horas e 26 minutos para a estimativa do consumo de energia elétrica da iluminação pública.
@@ -31,7 +31,11 @@ Com base nesse valor, será considerado um período de 30 dias por mês, totaliz
 O mesmo tempo de funcionamento será adotado nos três cenários analisados, permitindo comparar o consumo energético da iluminação convencional, das luminárias LED conectadas à rede elétrica e das luminárias LED alimentadas por energia solar fotovoltaica.
 O tempo utilizado representa uma referência regulatória para estimativas de faturamento, não uma medição real da praça hipotética. O funcionamento efetivo poderá variar conforme as condições locais e a época do ano.
 
-### 3.3. Características dos Equipamentos
+**fonte:**
+
+https://leis.org/institucionais/br/aneel/lei/resolucao-homologatoria/2019/2590/resolucao-homologatoria-n-2590-2019-homologar-o-tempo-por-municipio-a-ser-considerado-para-o-consumo-diario-para-fins-de-faturamento-da-energia-eletrica-destinada-a-iluminacao-publica-e-a-iluminacao-de-vias-internas-de-condominios-conforme?termo=RESOLU%C3%87%C3%83O%20HOMOLOGAT%C3%93RIA%20N%C2%BA%202.590%2C%20DE%2013%20DE%20AGOSTO%20DE%202019
+
+### 2.3. Características dos Equipamentos
 
 Para a análise energética, foram selecionados modelos reais de luminárias utilizadas em aplicações de iluminação pública, considerando potência elétrica, fluxo luminoso, eficiência energética e disponibilidade de informações técnicas verificáveis.
 A escolha das tecnologias foi fundamentada também em exemplos de modernização da iluminação de praças públicas brasileiras, como a Praça Vilaboim, em São Paulo, onde luminárias convencionais de vapor de sódio e mercúrio foram substituídas por iluminação LED.
@@ -59,8 +63,24 @@ Os equipamentos foram selecionados como referências técnicas para a simulaçã
 Embora os fluxos luminosos declarados sejam próximos, isso não garante que as luminárias ofereçam iluminação equivalente em toda a praça. A distribuição da luz, a altura dos postes, o espaçamento entre os pontos de iluminação e as condições de instalação também influenciam o resultado.
 Assim, os modelos serão utilizados para a comparação energética inicial, sem substituir um estudo luminotécnico necessário para uma implantação real
 
+**Fontes:**
 
-### 3.4. Condições de Geração Solar
+**Potência, fluxo e eficiência da luminária LED:** 
+https://registro.inmetro.gov.br/consulta/detalhe.aspx?pag=1&NumeroRegistro=005531/2023
+
+**Potência, fluxo e eficiência da luminária convencional:** 
+https://registro.inmetro.gov.br/consulta/detalhe.aspx?pag=1&NumeroRegistro=006047/2019
+
+**Uso da linha LD-7P em iluminação pública:**
+https://reeme.com.br/case/case-pontos-de-iluminacao-em-itaquaquecetuba/
+
+**Exemplo real de iluminação pública alimentada por energia solar:**
+https://www.curitiba.pr.gov.br/noticias/curitiba-testa-energia-solar-na-iluminacao-do-parque-barigui/17271
+
+**Uso real de vapor de sódio e LED em praça pública:**
+https://prefeitura.sp.gov.br/web/se/w/noticias/26675
+
+### 2.4. Condições de Geração Solar
 
 Para a alternativa de iluminação solar fotovoltaica, será considerado um sistema capaz de gerar energia elétrica durante o dia e armazená-la em baterias para alimentar as luminárias durante o período noturno.
 
@@ -97,8 +117,18 @@ A geração calculada considera condições médias de disponibilidade solar red
 Uma eventual implantação dependeria da avaliação das condições locais, das características dos equipamentos, da área disponível para instalação dos painéis e da autonomia necessária durante períodos prolongados de baixa geração solar.
 Também seria necessário avaliar a eficiência dos equipamentos de conversão e controle, além de confirmar a compatibilidade elétrica entre os componentes, considerando que ainda não foi definido um modelo comercial específico para o sistema. 
 
+**fontes:**
+**Na seção Battery specifications, a página explica capacidade nominal, capacidade utilizável, profundidade de descarga e eficiência das baterias.
+Utilizaremos essa fonte para fundamentar os conceitos, deixando os percentuais escolhidos como premissas do projeto.:**
+https://www.yourhome.gov.au/energy/batteries
 
-### 3.5. Custos e Tarifas
+**Essa página explica o funcionamento dos componentes de sistemas fotovoltaicos, incluindo inversores e baterias para utilização da energia durante a noite. Não determina o fator de aproveitamento de 70% escolhido para nossa simulação:**
+https://www.energy.gov/cmei/systems/solar-photovoltaic-system-design-basics
+
+**Essa fonte sustenta os dados de irradiação solar apresentados no texto. Trata-se de um estudo técnico de 2020, não de medição atual da praça:**
+https://fito.edu.br/wp-content/uploads/2020/11/ANEXO-I-TERMO-DE-REFER%C3%8ANCIA-E-MEMORIAL-DESCRITIVO-UNIDADE-ZONA-NORTE-PDF.pdf
+
+### 2.5. Custos e Tarifas
 
 Para estimar os custos das alternativas de iluminação, serão considerados os investimentos necessários para implantação, os gastos mensais de energia elétrica e as despesas previstas com manutenção.
 A análise utilizará tarifas oficiais, preços comerciais de referência e premissas orçamentárias adotadas pela equipe. Como o projeto considera uma praça hipotética, os valores representam estimativas para comparação dos cenários, não orçamentos definitivos de implantação.
@@ -177,9 +207,28 @@ Os preços comerciais poderão variar ao longo do tempo, e as premissas de insta
 A análise econômica completa será desenvolvida na comparação das alternativas, considerando os investimentos iniciais, os custos recorrentes, os benefícios energéticos e as limitações de cada solução.
 A redução do consumo de energia da rede não será considerada, isoladamente, como comprovação de maior viabilidade econômica, especialmente na alternativa solar, que exige investimento inicial mais elevado.
 
+**fontes:**
+
+**fundamentar o custo estimado das luminárias LED de 100 W, utilizando o preço registrado de R$ 904,83 para uma luminária REEME da mesma linha e potência:**
+https://www.diariomunicipal.com.br/arom/materia/312DE731
+
+**Tarifa B4a de R$ 0,43416/kWh:**
+https://www.enel.com.br/pt-saopaulo/Para_Voce/tarifa-energia-eletrica.html
+
+**Luminária LED comparável: R$ 994,48:**
+https://excelencialuminarias.com.br/luminaria-comercial-industrial-e-publica/luminaria-publica/luminaria-ornamental/
+
+**Painel solar Canadian de 650 W: R$ 739,00:**
+https://www.minhacasasolar.com.br/painel-solar-monocristalino-650w-halfcell-bifacial-canadian-82960
+
+**Bateria Gospower de 5,12 kWh: R$ 7.160,00:**
+https://www.alumifixenergia.com.br/collections/sistemas-all-in-one/products/bateria-litio-gospower-5-12-kwh-51-2v-100ah-gaveta
+
+**Perdas de 18 W do reator GOODLUX:**
+https://registro.inmetro.gov.br/consulta/detalhe.aspx?NumeroRegistro=002951%2F2023&pag=2
 
 
-## 4. Justificativa das Premissas
+## 3. Justificativa das Premissas
 
 As premissas adotadas no projeto foram definidas considerando as características de uma praça comunitária hipotética, a disponibilidade de informações técnicas verificáveis e a necessidade de comparar alternativas de iluminação em condições semelhantes.
 
@@ -214,7 +263,7 @@ Também foram adotadas reservas mensais de manutenção para representar os gast
 Dessa forma, as premissas buscam estabelecer condições de comparação coerentes com o objetivo do estudo, mantendo identificados os valores provenientes de fontes consultadas e aqueles definidos especificamente para a simulação.
 
 
-## 5. Limitações dos Dados
+## 4. Limitações dos Dados
 
 O projeto utiliza dados técnicos de fontes consultadas e premissas estabelecidas pela equipe para analisar uma praça comunitária hipotética. Portanto, os resultados representam estimativas de consumo, geração de energia e custos, não medições realizadas em uma instalação existente.
 
@@ -256,6 +305,6 @@ O estudo permite estimar diferenças de consumo, custos e necessidades energéti
 Para uma eventual execução, seriam necessários levantamentos locais, dimensionamento elétrico e luminotécnico, confirmação da compatibilidade dos componentes e elaboração de um orçamento detalhado.
 
 
-## 6. Relação com os Cálculos Energéticos
+## 5. Relação com os Cálculos Energéticos
 
 [Explicar como os dados registrados neste documento serão utilizados nos arquivos de análise energética, comparação das alternativas e no dashboard.]
