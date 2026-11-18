@@ -1,4 +1,4 @@
-<img width="1448" height="1086" alt="Diagrama de Iluminação Solar Bidirecional (1)" src="https://github.com/user-attachments/assets/76190100-e92b-4dc6-aff3-1a8bf9c43222" /><img width="1448" height="1086" alt="Diagrama de Iluminação Solar Bidirecional (1)" src="https://github.com/user-attachments/assets/6856a75a-24e6-4601-9f13-04ed50d9e1ec" />
+
 # Diagrama de Funcionamento da Solução
 
 ## 1. Visão Geral do Sistema
